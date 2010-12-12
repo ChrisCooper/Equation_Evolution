@@ -1,0 +1,183 @@
+/*
+ *  chromosome.cpp
+ *  Evolution
+ *
+ *  Created by Chris Cooper on 10-12-12.
+ *  Copyright 2010 Chris Cooper. All rights reserved.
+ *
+ */
+
+#include "chromosome.h"
+
+//string genes;                      
+//int fitnessScore;                  
+//bool scoreNeedsUpdate;
+
+string genotpyeSet = string("0123456789+-*/%");
+
+string operationCharacters = string("+-*/%");
+
+Chromosome::Chromosome(){
+	_genes = string(CHROMOSOME_LENGTH, '0');
+	randomize();
+	_scoreNeedsUpdate = true;
+}
+
+Chromosome::Chromosome(string startingGenotype){
+	if (startingGenotype.length() != CHROMOSOME_LENGTH){
+		randomize();
+	} else {
+		_genes = startingGenotype.substr(0);
+	}
+	removeDivisionsByZero();
+	_scoreNeedsUpdate = true;
+}
+
+Chromosome Chromosome::combination(Chromosome mate){
+	Chromosome newChromosome = Chromosome();
+	return newChromosome;
+}
+
+void Chromosome::mutate(float volatility){
+	for (size_t i = 0; i < CHROMOSOME_LENGTH; i++){
+		bool shouldMutate = (((float)rand()) / RAND_MAX) < volatility;
+		
+		if (shouldMutate){
+			mutate(i);
+		}
+	}
+}
+
+	
+int Chromosome::fitnessScore(){
+	if (!_scoreNeedsUpdate){
+		return _fitnessScore;
+	}
+	
+	bool expectsOperator = false;
+	_fitnessScore = 0;
+	OperationType operation = ADD;
+	
+	for (size_t i = 0; i < CHROMOSOME_LENGTH; i++){
+		if (expectsOperator){
+			
+			operation = determineOperatorType(_genes[i]);
+			
+			if (operation != NON_OPERATION){
+				expectsOperator = false;
+			}
+			
+		} else {
+			int number = _genes[i] - '0';
+			
+			if (number < 0 || number > 9){
+				continue;
+			}
+			
+			applyOperation(operation, number);
+
+			expectsOperator = true;
+		}
+	}
+	
+	return _fitnessScore;
+}
+
+void Chromosome::applyOperation(OperationType operation, int number){
+	switch (operation) {
+		case ADD:
+			_fitnessScore += number;
+			break;
+		case SUBTRACT:
+			_fitnessScore -= number;
+			break;
+		case MULTIPLY:
+			_fitnessScore *= number;
+			break;
+		case DIVIDE:
+			_fitnessScore /= number;
+			break;
+		case MODULUS:
+			_fitnessScore %= number;
+			break;
+		default:
+			cout << "Non operation not expected while calculation fitness.\n";
+			break;
+	}
+}
+
+OperationType Chromosome::determineOperatorType(char operationChar){
+	size_t operatorIndex = operationCharacters.find(operationChar);
+	bool operatorFound = operatorIndex != string::npos;
+	
+	if (!operatorFound){
+		return NON_OPERATION;
+	}
+	
+	return (OperationType) operatorIndex;
+}
+
+void Chromosome::randomize(){
+	for (size_t i = 0; i < CHROMOSOME_LENGTH; i++){
+		mutate(i);
+	}
+}
+
+void Chromosome::mutate(size_t geneIndex){
+	size_t genotypeIndex = (size_t)rand() % genotpyeSet.length();
+	_genes[geneIndex] = genotpyeSet[genotypeIndex];
+	removeDivisionsByZero();
+	_scoreNeedsUpdate = true;
+
+}
+
+void Chromosome::removeDivisionsByZero(){
+	bool foundDivision = false;
+	
+	for (size_t i = 0; i < CHROMOSOME_LENGTH; i++) {
+		if (foundDivision){
+			if (_genes[i] == '0'){
+				_genes[i] = ((rand() % 9) + 1) + '0';
+				foundDivision = false;
+			}
+			
+			
+		} else {
+			OperationType type = determineOperatorType(_genes[i]);
+			if (type == DIVIDE || type == MODULUS){
+				foundDivision = true;
+			}
+		}
+	}
+}
+
+string Chromosome::description(){
+	return string("Chromosome: ") + _genes.substr(0);
+}
+
+string Chromosome::simpleDescription(){
+	string theDescription = string("");
+	bool operatorExpected = false;
+	
+	for (size_t i = 0; i < CHROMOSOME_LENGTH; i++) {
+		if (operatorExpected){
+			if (operationCharacters.find(_genes[i]) != string::npos){
+				theDescription += _genes[i];
+				operatorExpected = false;
+			}
+			
+		} else {
+			int number = _genes[i] - '0';
+			if (number < 0 || number > 9){
+				continue;
+			}
+			theDescription += _genes[i];
+			operatorExpected = true;
+		}
+	}
+	
+	if (!operatorExpected){
+		theDescription.erase(theDescription.length()-1, 1);
+	}
+	return string("Simple Chromosome: ") + theDescription;
+}
