@@ -191,6 +191,11 @@
 			BFED7E3212B4CC7C008CE00D /* PBXTextBookmark */ = BFED7E3212B4CC7C008CE00D /* PBXTextBookmark */;
 			BFED7E3312B4CC7C008CE00D /* PBXTextBookmark */ = BFED7E3312B4CC7C008CE00D /* PBXTextBookmark */;
 			BFED7E3412B4CC7C008CE00D /* PBXTextBookmark */ = BFED7E3412B4CC7C008CE00D /* PBXTextBookmark */;
+			BFED7E3712B4CE19008CE00D /* PBXTextBookmark */ = BFED7E3712B4CE19008CE00D /* PBXTextBookmark */;
+			BFED7E3812B4CE19008CE00D /* PBXTextBookmark */ = BFED7E3812B4CE19008CE00D /* PBXTextBookmark */;
+			BFED7E3912B4CE19008CE00D /* PBXTextBookmark */ = BFED7E3912B4CE19008CE00D /* PBXTextBookmark */;
+			BFED7E3A12B4CE19008CE00D /* PBXTextBookmark */ = BFED7E3A12B4CE19008CE00D /* PBXTextBookmark */;
+			BFED7E3B12B4CE19008CE00D /* PBXTextBookmark */ = BFED7E3B12B4CE19008CE00D /* PBXTextBookmark */;
 		};
 		sourceControlManager = BFA54DB312B4205800713CE4 /* Source Control */;
 		userBuildSettings = {
@@ -199,8 +204,8 @@
 	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1171, 522}}";
-			sepNavSelRange = "{126, 0}";
-			sepNavVisRange = "{0, 146}";
+			sepNavSelRange = "{155, 0}";
+			sepNavVisRange = "{0, 174}";
 		};
 	};
 	8DD76F620486A84900D96B5E /* Evolution */ = {
@@ -427,15 +432,15 @@
 	BFED7BED12B49423008CE00D /* Chromosome.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1171, 559}}";
-			sepNavSelRange = "{253, 0}";
-			sepNavVisRange = "{20, 1264}";
+			sepNavSelRange = "{829, 0}";
+			sepNavVisRange = "{20, 1263}";
 		};
 	};
 	BFED7BEE12B49423008CE00D /* Chromosome.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {474, 2652}}";
-			sepNavSelRange = "{1886, 0}";
-			sepNavVisRange = "{3264, 301}";
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 2561}}";
+			sepNavSelRange = "{1538, 0}";
+			sepNavVisRange = "{1343, 723}";
 			sepNavWindowFrame = "{{15, 134}, {1073, 739}}";
 		};
 	};
@@ -453,7 +458,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 54";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 254;
 		vrLoc = 978;
@@ -489,7 +494,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 27";
 		rLen = 0;
-		rLoc = 1082;
+		rLoc = 1081;
 		rType = 0;
 		vrLen = 714;
 		vrLoc = 0;
@@ -508,7 +513,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 53";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 860;
 		vrLoc = 467;
@@ -518,7 +523,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 53";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 860;
 		vrLoc = 467;
@@ -528,7 +533,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 51";
 		rLen = 0;
-		rLoc = 1731;
+		rLoc = 1730;
 		rType = 0;
 		vrLen = 860;
 		vrLoc = 467;
@@ -538,7 +543,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 27";
 		rLen = 0;
-		rLoc = 1082;
+		rLoc = 1081;
 		rType = 0;
 		vrLen = 714;
 		vrLoc = 0;
@@ -548,7 +553,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 58";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 785;
 		vrLoc = 820;
@@ -558,7 +563,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 55";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 879;
 		vrLoc = 695;
@@ -568,7 +573,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 24";
 		rLen = 0;
-		rLoc = 976;
+		rLoc = 975;
 		rType = 0;
 		vrLen = 789;
 		vrLoc = 0;
@@ -578,7 +583,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 45";
 		rLen = 0;
-		rLoc = 1595;
+		rLoc = 1594;
 		rType = 0;
 		vrLen = 758;
 		vrLoc = 762;
@@ -588,7 +593,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 56";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 786;
 		vrLoc = 854;
@@ -608,7 +613,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 72";
 		rLen = 0;
-		rLoc = 2782;
+		rLoc = 2781;
 		rType = 0;
 		vrLen = 850;
 		vrLoc = 142;
@@ -618,7 +623,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 72";
 		rLen = 0;
-		rLoc = 2782;
+		rLoc = 2781;
 		rType = 0;
 		vrLen = 850;
 		vrLoc = 142;
@@ -628,7 +633,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 31";
 		rLen = 0;
-		rLoc = 1281;
+		rLoc = 1280;
 		rType = 0;
 		vrLen = 862;
 		vrLoc = 0;
@@ -638,7 +643,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 70";
 		rLen = 67;
-		rLoc = 2549;
+		rLoc = 2548;
 		rType = 0;
 		vrLen = 824;
 		vrLoc = 817;
@@ -648,7 +653,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 61";
 		rLen = 0;
-		rLoc = 1929;
+		rLoc = 1928;
 		rType = 0;
 		vrLen = 849;
 		vrLoc = 746;
@@ -658,7 +663,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 34";
 		rLen = 0;
-		rLoc = 1281;
+		rLoc = 1280;
 		rType = 0;
 		vrLen = 922;
 		vrLoc = 0;
@@ -668,7 +673,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 72";
 		rLen = 68;
-		rLoc = 2093;
+		rLoc = 2092;
 		rType = 0;
 		vrLen = 798;
 		vrLoc = 988;
@@ -688,7 +693,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 34";
 		rLen = 0;
-		rLoc = 1281;
+		rLoc = 1280;
 		rType = 0;
 		vrLen = 922;
 		vrLoc = 0;
@@ -698,7 +703,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 106";
 		rLen = 0;
-		rLoc = 2830;
+		rLoc = 2829;
 		rType = 0;
 		vrLen = 966;
 		vrLoc = 1417;
@@ -718,7 +723,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 24";
 		rLen = 21;
-		rLoc = 832;
+		rLoc = 831;
 		rType = 0;
 		vrLen = 945;
 		vrLoc = 0;
@@ -728,7 +733,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 116";
 		rLen = 0;
-		rLoc = 4259;
+		rLoc = 4258;
 		rType = 0;
 		vrLen = 966;
 		vrLoc = 1388;
@@ -738,7 +743,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 119";
 		rLen = 0;
-		rLoc = 3631;
+		rLoc = 3630;
 		rType = 0;
 		vrLen = 952;
 		vrLoc = 1480;
@@ -748,7 +753,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 251;
 		vrLoc = 1109;
@@ -758,7 +763,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 251;
 		vrLoc = 1109;
@@ -768,7 +773,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 251;
 		vrLoc = 1109;
@@ -778,7 +783,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 316;
 		vrLoc = 1388;
@@ -788,7 +793,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 12";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 428;
 		vrLoc = 0;
@@ -798,7 +803,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 24";
 		rLen = 0;
-		rLoc = 853;
+		rLoc = 852;
 		rType = 0;
 		vrLen = 974;
 		vrLoc = 0;
@@ -818,7 +823,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 99";
 		rLen = 0;
-		rLoc = 2451;
+		rLoc = 2450;
 		rType = 0;
 		vrLen = 834;
 		vrLoc = 1492;
@@ -828,7 +833,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 69";
 		rLen = 0;
-		rLoc = 2030;
+		rLoc = 2029;
 		rType = 0;
 		vrLen = 778;
 		vrLoc = 692;
@@ -838,7 +843,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 112";
 		rLen = 66;
-		rLoc = 2466;
+		rLoc = 2465;
 		rType = 0;
 		vrLen = 842;
 		vrLoc = 1629;
@@ -848,7 +853,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 1557;
@@ -858,7 +863,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 36";
 		rLen = 0;
-		rLoc = 1197;
+		rLoc = 1196;
 		rType = 0;
 		vrLen = 974;
 		vrLoc = 0;
@@ -868,7 +873,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 79";
 		rLen = 4;
-		rLoc = 2093;
+		rLoc = 2092;
 		rType = 0;
 		vrLen = 839;
 		vrLoc = 807;
@@ -878,7 +883,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 56";
 		rLen = 0;
-		rLoc = 1848;
+		rLoc = 1847;
 		rType = 0;
 		vrLen = 762;
 		vrLoc = 795;
@@ -888,7 +893,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 47";
 		rLen = 0;
-		rLoc = 1628;
+		rLoc = 1627;
 		rType = 0;
 		vrLen = 762;
 		vrLoc = 795;
@@ -898,7 +903,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 12";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 428;
 		vrLoc = 0;
@@ -908,7 +913,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 15";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 523;
 		vrLoc = 0;
@@ -918,7 +923,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 15";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 523;
 		vrLoc = 0;
@@ -958,7 +963,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 1555;
@@ -998,7 +1003,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 19";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 523;
 		vrLoc = 0;
@@ -1008,7 +1013,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 1555;
@@ -1018,7 +1023,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 19";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 523;
 		vrLoc = 0;
@@ -1028,7 +1033,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 1555;
@@ -1038,7 +1043,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 12";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 523;
 		vrLoc = 0;
@@ -1048,7 +1053,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 25";
 		rLen = 0;
-		rLoc = 964;
+		rLoc = 963;
 		rType = 0;
 		vrLen = 965;
 		vrLoc = 0;
@@ -1078,7 +1083,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 37";
 		rLen = 29;
-		rLoc = 1252;
+		rLoc = 1251;
 		rType = 0;
 		vrLen = 996;
 		vrLoc = 0;
@@ -1088,7 +1093,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 128";
 		rLen = 0;
-		rLoc = 3058;
+		rLoc = 3057;
 		rType = 0;
 		vrLen = 995;
 		vrLoc = 2177;
@@ -1098,7 +1103,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 145";
 		rLen = 0;
-		rLoc = 3446;
+		rLoc = 3445;
 		rType = 0;
 		vrLen = 947;
 		vrLoc = 2281;
@@ -1108,7 +1113,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 129";
 		rLen = 0;
-		rLoc = 3084;
+		rLoc = 3083;
 		rType = 0;
 		vrLen = 911;
 		vrLoc = 2281;
@@ -1118,7 +1123,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 336;
 		vrLoc = 1827;
@@ -1128,7 +1133,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 142";
 		rLen = 0;
-		rLoc = 3385;
+		rLoc = 3384;
 		rType = 0;
 		vrLen = 971;
 		vrLoc = 2578;
@@ -1138,7 +1143,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 336;
 		vrLoc = 1827;
@@ -1148,7 +1153,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 140";
 		rLen = 0;
-		rLoc = 3341;
+		rLoc = 3340;
 		rType = 0;
 		vrLen = 957;
 		vrLoc = 2578;
@@ -1158,7 +1163,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 1786;
@@ -1168,7 +1173,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 1786;
@@ -1178,7 +1183,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 315;
 		vrLoc = 1869;
@@ -1188,7 +1193,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 1786;
@@ -1198,7 +1203,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 1786;
@@ -1208,7 +1213,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 329;
 		vrLoc = 2089;
@@ -1218,7 +1223,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 377;
 		vrLoc = 2085;
@@ -1228,7 +1233,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 69";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 315;
 		vrLoc = 2583;
@@ -1238,7 +1243,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 69";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 331;
 		vrLoc = 2592;
@@ -1248,7 +1253,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 69";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 331;
 		vrLoc = 2592;
@@ -1278,7 +1283,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 10";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 658;
 		vrLoc = 0;
@@ -1288,7 +1293,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 10";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 759;
 		vrLoc = 0;
@@ -1298,7 +1303,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 10";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 759;
 		vrLoc = 0;
@@ -1318,7 +1323,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 151";
 		rLen = 0;
-		rLoc = 3312;
+		rLoc = 3311;
 		rType = 0;
 		vrLen = 1022;
 		vrLoc = 2690;
@@ -1328,7 +1333,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 69";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 352;
 		vrLoc = 2593;
@@ -1338,7 +1343,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 69";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 352;
 		vrLoc = 2593;
@@ -1348,7 +1353,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 69";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 367;
 		vrLoc = 2555;
@@ -1358,7 +1363,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 22";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 608;
 		vrLoc = 0;
@@ -1368,7 +1373,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 34";
 		rLen = 0;
-		rLoc = 1101;
+		rLoc = 1100;
 		rType = 0;
 		vrLen = 1034;
 		vrLoc = 0;
@@ -1378,7 +1383,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 86";
 		rLen = 0;
-		rLoc = 2097;
+		rLoc = 2096;
 		rType = 0;
 		vrLen = 750;
 		vrLoc = 1418;
@@ -1388,7 +1393,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 106";
 		rLen = 0;
-		rLoc = 2545;
+		rLoc = 2544;
 		rType = 0;
 		vrLen = 921;
 		vrLoc = 142;
@@ -1438,7 +1443,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 16";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 781;
 		vrLoc = 0;
@@ -1478,7 +1483,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 70";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 323;
 		vrLoc = 2622;
@@ -1498,7 +1503,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 16";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 781;
 		vrLoc = 0;
@@ -1508,7 +1513,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 26";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 777;
 		vrLoc = 0;
@@ -1518,7 +1523,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 10";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 777;
 		vrLoc = 0;
@@ -1548,7 +1553,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 70";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 323;
 		vrLoc = 2622;
@@ -1585,7 +1590,7 @@
 	};
 	BFED7DB812B4C455008CE00D /* Probablilty.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 547}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 522}}";
 			sepNavSelRange = "{241, 0}";
 			sepNavVisRange = "{0, 295}";
 		};
@@ -1602,7 +1607,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 70";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 284;
 		vrLoc = 2638;
@@ -1612,7 +1617,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 70";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 284;
 		vrLoc = 2638;
@@ -1622,7 +1627,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 7";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 781;
 		vrLoc = 0;
@@ -1682,7 +1687,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1692,7 +1697,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1702,7 +1707,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1712,7 +1717,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1722,7 +1727,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1732,7 +1737,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1742,7 +1747,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1752,7 +1757,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1762,7 +1767,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 234;
 		vrLoc = 3286;
@@ -1772,7 +1777,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 281;
 		vrLoc = 3286;
@@ -1782,7 +1787,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 82";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 301;
 		vrLoc = 3264;
@@ -1792,7 +1797,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 82";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 301;
 		vrLoc = 3264;
@@ -1802,7 +1807,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 82";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 301;
 		vrLoc = 3264;
@@ -1832,7 +1837,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 20";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 1174;
 		vrLoc = 44;
@@ -1862,7 +1867,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 82";
 		rLen = 0;
-		rLoc = 1886;
+		rLoc = 1885;
 		rType = 0;
 		vrLen = 301;
 		vrLoc = 3264;
@@ -1882,7 +1887,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 20";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 1198;
 		vrLoc = 20;
@@ -1892,9 +1897,59 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 7";
 		rLen = 0;
-		rLoc = 126;
+		rLoc = 154;
 		rType = 0;
 		vrLen = 146;
 		vrLoc = 0;
+	};
+	BFED7E3712B4CE19008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 10";
+		rLen = 0;
+		rLoc = 155;
+		rType = 0;
+		vrLen = 174;
+		vrLoc = 0;
+	};
+	BFED7E3812B4CE19008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7DB812B4C455008CE00D /* Probablilty.h */;
+		name = "Probablilty.h: 13";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 295;
+		vrLoc = 0;
+	};
+	BFED7E3912B4CE19008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 65";
+		rLen = 0;
+		rLoc = 1538;
+		rType = 0;
+		vrLen = 723;
+		vrLoc = 1343;
+	};
+	BFED7E3A12B4CE19008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 27";
+		rLen = 11;
+		rLoc = 815;
+		rType = 0;
+		vrLen = 1263;
+		vrLoc = 20;
+	};
+	BFED7E3B12B4CE19008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 27";
+		rLen = 0;
+		rLoc = 829;
+		rType = 0;
+		vrLen = 1263;
+		vrLoc = 20;
 	};
 }

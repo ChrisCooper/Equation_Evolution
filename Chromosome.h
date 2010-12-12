@@ -24,7 +24,7 @@ public:
     Chromosome combination(Chromosome mate);	//returns a Chromosome from mixing with another
 	void mutate(float volatility);				//mutates genes with volatility as probabilty of each gene changing
 	
-	int fitnessScore();
+	int parsedValue();
 	string description();
 	string simpleDescription();
 	void addCrossover(Chromosome source, size_t startIndex, size_t crossoverLength);

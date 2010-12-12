@@ -62,7 +62,7 @@ void Chromosome::mutate(float volatility){
 }
 
 	
-int Chromosome::fitnessScore(){
+int Chromosome::parsedValue(){
 	if (!_scoreNeedsUpdate){
 		return _fitnessScore;
 	}
