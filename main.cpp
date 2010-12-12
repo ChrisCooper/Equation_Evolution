@@ -10,25 +10,17 @@ int main (int argc, char * const argv[]) {
 	
 	vector<Chromosome> pool(GENERATION_SIZE);
 	initializePool(pool);
-	
 
 	
-	cout << "sorting" << endl;
+	for(int generation = 0; generation < GENERATIONS; generation++){
+		advanceGeneration(pool);
+	}
+	
 	sort(pool.begin(), pool.end(), Chromosome::compareChromosomes);
 	
-	for (int i = 0; i < pool.size(); i++){
-		printf("%10d %10d\n",pool[i].parsedValue(), evaluateFitness(pool[i]));
-	}
-	
-	for(int generation = 0; generation < GENERATIONS; generation++){
-		//sort(pool.begin(), pool.end(), Chromosome::compareChromosomes);
-		
-		//Find top SURVIVORS_PER_GENERATION survivors
-		
-		
-		//Intermate the surviors, MATES_PER_ORGANISM times per organism
-	}
-	
+	cout << "Top candidate: " << pool[0].simpleDescription() << endl;
+	printf("Value: %d\n", pool[0].parsedValue());
+	printf("Fitness: %d\n", evaluateFitness(pool[0]));
 	
     return 0;
 }

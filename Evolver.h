@@ -14,14 +14,15 @@
 #ifndef _EVOLVER_
 #define _EVOLVER_
 
-#define MUTATION_RATE 0.01
-#define SURVIVORS_PER_GENERATION 10
+#define MUTATION_RATE 0.02f
+#define SURVIVORS_PER_GENERATION 30
 #define MATES_PER_ORGANISM 3
 #define GENERATION_SIZE (SURVIVORS_PER_GENERATION * MATES_PER_ORGANISM)
-#define GENERATIONS 10
+#define GENERATIONS 200
 
-#define TARGET_VALUE 10
+#define TARGET_VALUE 725000
 
+void advanceGeneration(vector<Chromosome> &pool);
 void initializePool(vector<Chromosome> &pool);
 int evaluateFitness(Chromosome &chrom);
 
