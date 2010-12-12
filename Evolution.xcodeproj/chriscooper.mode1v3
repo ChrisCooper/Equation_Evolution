@@ -270,7 +270,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>4</integer>
+									<integer>2</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -313,7 +313,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Chromosome.cpp</string>
+								<string>main.cpp</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -321,11 +321,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>Chromosome.cpp</string>
+										<string>main.cpp</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>BFED7D9C12B4BE38008CE00D</string>
+										<string>BFED7E3412B4CC7C008CE00D</string>
 										<key>history</key>
 										<array>
 											<string>BF0195F312B4248F00CA82CF</string>
@@ -333,9 +333,11 @@
 											<string>BF0195FF12B425D200CA82CF</string>
 											<string>BF01960012B425D200CA82CF</string>
 											<string>BFED7C3412B4A626008CE00D</string>
-											<string>BFED7D9912B4BE38008CE00D</string>
-											<string>BFED7D9A12B4BE38008CE00D</string>
-											<string>BFED7D9B12B4BE38008CE00D</string>
+											<string>BFED7DC712B4C717008CE00D</string>
+											<string>BFED7E1612B4CC28008CE00D</string>
+											<string>BFED7E1712B4CC28008CE00D</string>
+											<string>BFED7E3212B4CC7C008CE00D</string>
+											<string>BFED7E3312B4CC7C008CE00D</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>

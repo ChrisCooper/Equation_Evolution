@@ -5,10 +5,13 @@
  *  Created by Chris Cooper on 10-12-12.
  *  Copyright 2010 Chris Cooper. All rights reserved.
  *
- */
-#import <iostream>
+ */ 
+#include <iostream>
+#include "Probablilty.h"
 
-#define CHROMOSOME_LENGTH 101
+#define CHROMOSOME_LENGTH 1001
+#define CROSSOVER_AVERAGE_LENGTH 100
+#define CROSSOVER_CHANCE (((float)CHROMOSOME_LENGTH) / CROSSOVER_AVERAGE_LENGTH/2 / CHROMOSOME_LENGTH)
 
 using namespace std;
 
@@ -24,6 +27,7 @@ public:
 	int fitnessScore();
 	string description();
 	string simpleDescription();
+	void addCrossover(Chromosome source, size_t startIndex, size_t crossoverLength);
 	
 private:
 

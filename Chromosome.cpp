@@ -34,15 +34,28 @@ Chromosome::Chromosome(string startingGenotype){
 }
 
 Chromosome Chromosome::combination(Chromosome mate){
-	Chromosome newChromosome = Chromosome();
+	Chromosome newChromosome = Chromosome(_genes.substr(0));
+	
+	for (size_t i = 0; i < CHROMOSOME_LENGTH; i++) {
+		if (eventHappenedWithProbability(CROSSOVER_CHANCE)){
+			int crossoverLength = binomialRandomAroundTarget(CROSSOVER_AVERAGE_LENGTH);
+			newChromosome.addCrossover(mate, i, crossoverLength);
+		}
+	}
+	
 	return newChromosome;
+}
+
+void Chromosome::addCrossover(Chromosome source, size_t startIndex, size_t crossoverLength){
+	for (size_t i = startIndex; i < CHROMOSOME_LENGTH && i < startIndex + crossoverLength; i++) {
+		_genes[i] = source._genes[i];
+	}
+	removeDivisionsByZero();
 }
 
 void Chromosome::mutate(float volatility){
 	for (size_t i = 0; i < CHROMOSOME_LENGTH; i++){
-		bool shouldMutate = (((float)rand()) / RAND_MAX) < volatility;
-		
-		if (shouldMutate){
+		if (eventHappenedWithProbability(volatility)){
 			mutate(i);
 		}
 	}
