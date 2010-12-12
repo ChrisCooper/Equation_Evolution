@@ -11,11 +11,10 @@
 
 void advanceGeneration(vector<Chromosome> &pool){
 	
-	sort(pool.begin(), pool.end(), Chromosome::compareChromosomes);
-	
 	//cout << "Top candidate: " << endl;// << pool[0].description() << endl;
 	//printf("Value: %d\n", pool[0].parsedValue());
-	printf("Fitness: %d\n", evaluateFitness(pool[0]));
+	printf("Fitness: %10d, value: %10d, length: %5d ", evaluateFitness(pool[0]), pool[0].parsedValue(), (int)pool[0].simpleDescription().length());
+	cout << pool[0].simpleDescription() << endl;
 	
 	pool.resize(SURVIVORS_PER_GENERATION);
 	
@@ -33,7 +32,7 @@ void advanceGeneration(vector<Chromosome> &pool){
 		}
 	}
 	
-	
+	sort(pool.begin(), pool.end(), Chromosome::compareChromosomes);
 	
 	//Intermate the surviors, MATES_PER_ORGANISM times per organism
 }
@@ -47,5 +46,8 @@ void initializePool(vector<Chromosome> &pool){
 
 //This function should be changed to evolve the desired attributes
 int evaluateFitness(Chromosome &chrom){
-	return abs(chrom.parsedValue() - TARGET_VALUE);
+	int value = abs(chrom.parsedValue() - TARGET_VALUE);
+	value += SHORTNESS_IMPORTANCE * chrom.simpleDescription().length();
+	value += LENGTH_IMPORTANCE * (CHROMOSOME_LENGTH - chrom.simpleDescription().length());
+	return value;
 }

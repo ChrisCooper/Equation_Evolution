@@ -11,14 +11,16 @@ int main (int argc, char * const argv[]) {
 	vector<Chromosome> pool(GENERATION_SIZE);
 	initializePool(pool);
 
+	sort(pool.begin(), pool.end(), Chromosome::compareChromosomes);
 	
 	for(int generation = 0; generation < GENERATIONS; generation++){
+		printf("%5d ", generation);
 		advanceGeneration(pool);
 	}
 	
-	sort(pool.begin(), pool.end(), Chromosome::compareChromosomes);
 	
 	cout << "Top candidate: " << pool[0].simpleDescription() << endl;
+	cout << pool[0].description() << endl;
 	printf("Value: %d\n", pool[0].parsedValue());
 	printf("Fitness: %d\n", evaluateFitness(pool[0]));
 	
