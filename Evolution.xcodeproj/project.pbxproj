@@ -11,6 +11,7 @@
 		8DD76F6A0486A84900D96B5E /* Evolution.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = C6859E8B029090EE04C91782 /* Evolution.1 */; };
 		BFED7BEF12B49423008CE00D /* Chromosome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */; };
 		BFED7DBA12B4C455008CE00D /* Probablilty.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFED7DB912B4C455008CE00D /* Probablilty.cpp */; };
+		BFED7E5A12B4CFFF008CE00D /* Evolver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,8 @@
 		BFED7BEE12B49423008CE00D /* Chromosome.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Chromosome.cpp; sourceTree = "<group>"; };
 		BFED7DB812B4C455008CE00D /* Probablilty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Probablilty.h; sourceTree = "<group>"; };
 		BFED7DB912B4C455008CE00D /* Probablilty.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Probablilty.cpp; sourceTree = "<group>"; };
+		BFED7E5812B4CFFF008CE00D /* Evolver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Evolver.h; sourceTree = "<group>"; };
+		BFED7E5912B4CFFF008CE00D /* Evolver.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Evolver.cpp; sourceTree = "<group>"; };
 		C6859E8B029090EE04C91782 /* Evolution.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Evolution.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -65,6 +68,8 @@
 				BFED7BEE12B49423008CE00D /* Chromosome.cpp */,
 				BFED7DB812B4C455008CE00D /* Probablilty.h */,
 				BFED7DB912B4C455008CE00D /* Probablilty.cpp */,
+				BFED7E5812B4CFFF008CE00D /* Evolver.h */,
+				BFED7E5912B4CFFF008CE00D /* Evolver.cpp */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -131,6 +136,7 @@
 				8DD76F650486A84900D96B5E /* main.cpp in Sources */,
 				BFED7BEF12B49423008CE00D /* Chromosome.cpp in Sources */,
 				BFED7DBA12B4C455008CE00D /* Probablilty.cpp in Sources */,
+				BFED7E5A12B4CFFF008CE00D /* Evolver.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

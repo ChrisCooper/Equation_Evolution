@@ -8,6 +8,7 @@
  */
 
 #include "chromosome.h"
+#include "Evolver.h"
 
 //string genes;                      
 //int fitnessScore;                  
@@ -33,7 +34,7 @@ Chromosome::Chromosome(string startingGenotype){
 	_scoreNeedsUpdate = true;
 }
 
-Chromosome Chromosome::combination(Chromosome mate){
+Chromosome Chromosome::combination(Chromosome &mate){
 	Chromosome newChromosome = Chromosome(_genes.substr(0));
 	
 	for (size_t i = 0; i < CHROMOSOME_LENGTH; i++) {
@@ -46,7 +47,7 @@ Chromosome Chromosome::combination(Chromosome mate){
 	return newChromosome;
 }
 
-void Chromosome::addCrossover(Chromosome source, size_t startIndex, size_t crossoverLength){
+void Chromosome::addCrossover(Chromosome &source, size_t startIndex, size_t crossoverLength){
 	for (size_t i = startIndex; i < CHROMOSOME_LENGTH && i < startIndex + crossoverLength; i++) {
 		_genes[i] = source._genes[i];
 	}
@@ -64,11 +65,11 @@ void Chromosome::mutate(float volatility){
 	
 int Chromosome::parsedValue(){
 	if (!_scoreNeedsUpdate){
-		return _fitnessScore;
+		return _parsedValue;
 	}
 	
 	bool expectsOperator = false;
-	_fitnessScore = 0;
+	_parsedValue = 0;
 	OperationType operation = ADD;
 	
 	for (size_t i = 0; i < CHROMOSOME_LENGTH; i++){
@@ -93,25 +94,25 @@ int Chromosome::parsedValue(){
 		}
 	}
 	
-	return _fitnessScore;
+	return _parsedValue;
 }
 
 void Chromosome::applyOperation(OperationType operation, int number){
 	switch (operation) {
 		case ADD:
-			_fitnessScore += number;
+			_parsedValue += number;
 			break;
 		case SUBTRACT:
-			_fitnessScore -= number;
+			_parsedValue -= number;
 			break;
 		case MULTIPLY:
-			_fitnessScore *= number;
+			_parsedValue *= number;
 			break;
 		case DIVIDE:
-			_fitnessScore /= number;
+			_parsedValue /= number;
 			break;
 		case MODULUS:
-			_fitnessScore %= number;
+			_parsedValue %= number;
 			break;
 		default:
 			cout << "Non operation not expected while calculation fitness.\n";
@@ -193,4 +194,8 @@ string Chromosome::simpleDescription(){
 		theDescription.erase(theDescription.length()-1, 1);
 	}
 	return string("Simple Chromosome: ") + theDescription;
+}
+
+bool Chromosome::compareChromosomes(Chromosome c1, Chromosome c2){
+	return (evaluateFitness(c1) < evaluateFitness(c2));
 }

@@ -9,6 +9,11 @@
 
 #include <iostream>
 
+#ifndef _PROBABILITY_
+#define _PROBABILITY_
+
 int binomialRandomAroundTarget(int target);
 float zeroToOneUniform();
 bool eventHappenedWithProbability(float probability);
+
+#endif

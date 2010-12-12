@@ -196,6 +196,155 @@
 			BFED7E3912B4CE19008CE00D /* PBXTextBookmark */ = BFED7E3912B4CE19008CE00D /* PBXTextBookmark */;
 			BFED7E3A12B4CE19008CE00D /* PBXTextBookmark */ = BFED7E3A12B4CE19008CE00D /* PBXTextBookmark */;
 			BFED7E3B12B4CE19008CE00D /* PBXTextBookmark */ = BFED7E3B12B4CE19008CE00D /* PBXTextBookmark */;
+			BFED7E3C12B4CEA3008CE00D /* PBXTextBookmark */ = BFED7E3C12B4CEA3008CE00D /* PBXTextBookmark */;
+			BFED7E3D12B4CEA3008CE00D /* PBXTextBookmark */ = BFED7E3D12B4CEA3008CE00D /* PBXTextBookmark */;
+			BFED7E3E12B4CEA3008CE00D /* PBXTextBookmark */ = BFED7E3E12B4CEA3008CE00D /* PBXTextBookmark */;
+			BFED7E4512B4CEF9008CE00D /* PBXTextBookmark */ = BFED7E4512B4CEF9008CE00D /* PBXTextBookmark */;
+			BFED7E4C12B4CF8A008CE00D /* PBXTextBookmark */ = BFED7E4C12B4CF8A008CE00D /* PBXTextBookmark */;
+			BFED7E5212B4CFBC008CE00D /* PBXTextBookmark */ = BFED7E5212B4CFBC008CE00D /* PBXTextBookmark */;
+			BFED7E5712B4CFE5008CE00D /* PBXTextBookmark */ = BFED7E5712B4CFE5008CE00D /* PBXTextBookmark */;
+			BFED7E5F12B4D03F008CE00D /* PBXTextBookmark */ = BFED7E5F12B4D03F008CE00D /* PBXTextBookmark */;
+			BFED7E6012B4D08B008CE00D /* PBXTextBookmark */ = BFED7E6012B4D08B008CE00D /* PBXTextBookmark */;
+			BFED7E6112B4D08B008CE00D /* PBXTextBookmark */ = BFED7E6112B4D08B008CE00D /* PBXTextBookmark */;
+			BFED7E6212B4D08B008CE00D /* PBXTextBookmark */ = BFED7E6212B4D08B008CE00D /* PBXTextBookmark */;
+			BFED7E6312B4D08B008CE00D /* PBXTextBookmark */ = BFED7E6312B4D08B008CE00D /* PBXTextBookmark */;
+			BFED7E6412B4D08B008CE00D /* PBXTextBookmark */ = BFED7E6412B4D08B008CE00D /* PBXTextBookmark */;
+			BFED7E6712B4D4E7008CE00D /* PBXTextBookmark */ = BFED7E6712B4D4E7008CE00D /* PBXTextBookmark */;
+			BFED7E6812B4D4E7008CE00D /* XCBuildMessageTextBookmark */ = BFED7E6812B4D4E7008CE00D /* XCBuildMessageTextBookmark */;
+			BFED7E6912B4D4E7008CE00D /* PBXTextBookmark */ = BFED7E6912B4D4E7008CE00D /* PBXTextBookmark */;
+			BFED7E7012B4D526008CE00D /* PBXTextBookmark */ = BFED7E7012B4D526008CE00D /* PBXTextBookmark */;
+			BFED7E7112B4D526008CE00D /* XCBuildMessageTextBookmark */ = BFED7E7112B4D526008CE00D /* XCBuildMessageTextBookmark */;
+			BFED7E7212B4D526008CE00D /* PBXTextBookmark */ = BFED7E7212B4D526008CE00D /* PBXTextBookmark */;
+			BFED7E7312B4D541008CE00D /* PBXTextBookmark */ = BFED7E7312B4D541008CE00D /* PBXTextBookmark */;
+			BFED7E7412B4D541008CE00D /* PBXTextBookmark */ = BFED7E7412B4D541008CE00D /* PBXTextBookmark */;
+			BFED7E7512B4D541008CE00D /* PBXTextBookmark */ = BFED7E7512B4D541008CE00D /* PBXTextBookmark */;
+			BFED7E7612B4D541008CE00D /* PBXTextBookmark */ = BFED7E7612B4D541008CE00D /* PBXTextBookmark */;
+			BFED7E7712B4D541008CE00D /* PBXTextBookmark */ = BFED7E7712B4D541008CE00D /* PBXTextBookmark */;
+			BFED7E7812B4D541008CE00D /* PBXTextBookmark */ = BFED7E7812B4D541008CE00D /* PBXTextBookmark */;
+			BFED7E7D12B4D5AD008CE00D /* XCBuildMessageTextBookmark */ = BFED7E7D12B4D5AD008CE00D /* XCBuildMessageTextBookmark */;
+			BFED7E7E12B4D5AD008CE00D /* PBXTextBookmark */ = BFED7E7E12B4D5AD008CE00D /* PBXTextBookmark */;
+			BFED7E7F12B4D5EB008CE00D /* PBXTextBookmark */ = BFED7E7F12B4D5EB008CE00D /* PBXTextBookmark */;
+			BFED7E8012B4D5EB008CE00D /* PBXTextBookmark */ = BFED7E8012B4D5EB008CE00D /* PBXTextBookmark */;
+			BFED7E8112B4D5EB008CE00D /* PBXTextBookmark */ = BFED7E8112B4D5EB008CE00D /* PBXTextBookmark */;
+			BFED7E8212B4D5EB008CE00D /* PBXTextBookmark */ = BFED7E8212B4D5EB008CE00D /* PBXTextBookmark */;
+			BFED7E8312B4D5EB008CE00D /* PBXTextBookmark */ = BFED7E8312B4D5EB008CE00D /* PBXTextBookmark */;
+			BFED7E8412B4D5EB008CE00D /* PBXTextBookmark */ = BFED7E8412B4D5EB008CE00D /* PBXTextBookmark */;
+			BFED7E9712B4D675008CE00D /* PBXTextBookmark */ = BFED7E9712B4D675008CE00D /* PBXTextBookmark */;
+			BFED7E9812B4D675008CE00D /* PBXTextBookmark */ = BFED7E9812B4D675008CE00D /* PBXTextBookmark */;
+			BFED7E9912B4D675008CE00D /* XCBuildMessageTextBookmark */ = BFED7E9912B4D675008CE00D /* XCBuildMessageTextBookmark */;
+			BFED7E9A12B4D675008CE00D /* PBXTextBookmark */ = BFED7E9A12B4D675008CE00D /* PBXTextBookmark */;
+			BFED7E9B12B4D6AA008CE00D /* XCBuildMessageTextBookmark */ = BFED7E9B12B4D6AA008CE00D /* XCBuildMessageTextBookmark */;
+			BFED7E9C12B4D6AA008CE00D /* PBXTextBookmark */ = BFED7E9C12B4D6AA008CE00D /* PBXTextBookmark */;
+			BFED7EA512B4D75A008CE00D /* PBXTextBookmark */ = BFED7EA512B4D75A008CE00D /* PBXTextBookmark */;
+			BFED7EA612B4D75A008CE00D /* PBXTextBookmark */ = BFED7EA612B4D75A008CE00D /* PBXTextBookmark */;
+			BFED7EA712B4D75A008CE00D /* PBXTextBookmark */ = BFED7EA712B4D75A008CE00D /* PBXTextBookmark */;
+			BFED7EA812B4D75A008CE00D /* PBXTextBookmark */ = BFED7EA812B4D75A008CE00D /* PBXTextBookmark */;
+			BFED7EB712B4D7BF008CE00D /* PBXTextBookmark */ = BFED7EB712B4D7BF008CE00D /* PBXTextBookmark */;
+			BFED7EBC12B4D8E8008CE00D /* PBXTextBookmark */ = BFED7EBC12B4D8E8008CE00D /* PBXTextBookmark */;
+			BFED7EBF12B4D8EE008CE00D /* PBXTextBookmark */ = BFED7EBF12B4D8EE008CE00D /* PBXTextBookmark */;
+			BFED7EC012B4D8F8008CE00D /* PBXTextBookmark */ = BFED7EC012B4D8F8008CE00D /* PBXTextBookmark */;
+			BFED7EC112B4D8F8008CE00D /* PBXTextBookmark */ = BFED7EC112B4D8F8008CE00D /* PBXTextBookmark */;
+			BFED7EC212B4D8F8008CE00D /* PBXTextBookmark */ = BFED7EC212B4D8F8008CE00D /* PBXTextBookmark */;
+			BFED7EC312B4D8F8008CE00D /* PBXTextBookmark */ = BFED7EC312B4D8F8008CE00D /* PBXTextBookmark */;
+			BFED7EC412B4DAB7008CE00D /* PBXTextBookmark */ = BFED7EC412B4DAB7008CE00D /* PBXTextBookmark */;
+			BFED7EC512B4DBBB008CE00D /* PBXTextBookmark */ = BFED7EC512B4DBBB008CE00D /* PBXTextBookmark */;
+			BFED7EC612B4DBBB008CE00D /* PBXTextBookmark */ = BFED7EC612B4DBBB008CE00D /* PBXTextBookmark */;
+			BFED7EC712B4DBBB008CE00D /* PBXTextBookmark */ = BFED7EC712B4DBBB008CE00D /* PBXTextBookmark */;
+			BFED7EC812B4DBBB008CE00D /* PBXTextBookmark */ = BFED7EC812B4DBBB008CE00D /* PBXTextBookmark */;
+			BFED7EC912B4DBBB008CE00D /* PBXTextBookmark */ = BFED7EC912B4DBBB008CE00D /* PBXTextBookmark */;
+			BFED7ECA12B4DBBB008CE00D /* PBXTextBookmark */ = BFED7ECA12B4DBBB008CE00D /* PBXTextBookmark */;
+			BFED7ECB12B4DBBB008CE00D /* PBXTextBookmark */ = BFED7ECB12B4DBBB008CE00D /* PBXTextBookmark */;
+			BFED7ECE12B4DC22008CE00D /* PBXTextBookmark */ = BFED7ECE12B4DC22008CE00D /* PBXTextBookmark */;
+			BFED7ECF12B4DC22008CE00D /* PBXTextBookmark */ = BFED7ECF12B4DC22008CE00D /* PBXTextBookmark */;
+			BFED7ED012B4DC22008CE00D /* PBXTextBookmark */ = BFED7ED012B4DC22008CE00D /* PBXTextBookmark */;
+			BFED7ED512B4DCA9008CE00D /* PBXTextBookmark */ = BFED7ED512B4DCA9008CE00D /* PBXTextBookmark */;
+			BFED7ED812B4DD56008CE00D /* PBXTextBookmark */ = BFED7ED812B4DD56008CE00D /* PBXTextBookmark */;
+			BFED7EDF12B4DDCF008CE00D /* PBXTextBookmark */ = BFED7EDF12B4DDCF008CE00D /* PBXTextBookmark */;
+			BFED7EE012B4DDCF008CE00D /* PBXTextBookmark */ = BFED7EE012B4DDCF008CE00D /* PBXTextBookmark */;
+			BFED7EE112B4DDCF008CE00D /* XCBuildMessageTextBookmark */ = BFED7EE112B4DDCF008CE00D /* XCBuildMessageTextBookmark */;
+			BFED7EE212B4DDCF008CE00D /* PBXTextBookmark */ = BFED7EE212B4DDCF008CE00D /* PBXTextBookmark */;
+			BFED7EE512B4DEC9008CE00D /* PBXTextBookmark */ = BFED7EE512B4DEC9008CE00D /* PBXTextBookmark */;
+			BFED7EE612B4DEC9008CE00D /* PBXTextBookmark */ = BFED7EE612B4DEC9008CE00D /* PBXTextBookmark */;
+			BFED7EE712B4DEC9008CE00D /* PBXTextBookmark */ = BFED7EE712B4DEC9008CE00D /* PBXTextBookmark */;
+			BFED7EE812B4DEC9008CE00D /* PBXTextBookmark */ = BFED7EE812B4DEC9008CE00D /* PBXTextBookmark */;
+			BFED7EEB12B4DF27008CE00D /* PBXTextBookmark */ = BFED7EEB12B4DF27008CE00D /* PBXTextBookmark */;
+			BFED7EEC12B4DF27008CE00D /* PBXTextBookmark */ = BFED7EEC12B4DF27008CE00D /* PBXTextBookmark */;
+			BFED7EED12B4DF27008CE00D /* PBXTextBookmark */ = BFED7EED12B4DF27008CE00D /* PBXTextBookmark */;
+			BFED7EEE12B4DF27008CE00D /* PBXTextBookmark */ = BFED7EEE12B4DF27008CE00D /* PBXTextBookmark */;
+			BFED7EEF12B4DF27008CE00D /* PBXTextBookmark */ = BFED7EEF12B4DF27008CE00D /* PBXTextBookmark */;
+			BFED7EF212B4DFBA008CE00D /* PBXTextBookmark */ = BFED7EF212B4DFBA008CE00D /* PBXTextBookmark */;
+			BFED7EF312B4DFBA008CE00D /* PBXTextBookmark */ = BFED7EF312B4DFBA008CE00D /* PBXTextBookmark */;
+			BFED7EF512B4DFBA008CE00D /* XCBuildMessageTextBookmark */ = BFED7EF512B4DFBA008CE00D /* XCBuildMessageTextBookmark */;
+			BFED7EF612B4DFBA008CE00D /* PBXTextBookmark */ = BFED7EF612B4DFBA008CE00D /* PBXTextBookmark */;
+			BFED7EF712B4DFC0008CE00D /* PBXTextBookmark */ = BFED7EF712B4DFC0008CE00D /* PBXTextBookmark */;
+			BFED7EF812B4DFC0008CE00D /* PBXTextBookmark */ = BFED7EF812B4DFC0008CE00D /* PBXTextBookmark */;
+			BFED7EF912B4DFC0008CE00D /* PBXTextBookmark */ = BFED7EF912B4DFC0008CE00D /* PBXTextBookmark */;
+			BFED7EFA12B4DFC0008CE00D /* PBXTextBookmark */ = BFED7EFA12B4DFC0008CE00D /* PBXTextBookmark */;
+			BFED7EFB12B4DFC0008CE00D /* PBXTextBookmark */ = BFED7EFB12B4DFC0008CE00D /* PBXTextBookmark */;
+			BFED7EFC12B4DFC0008CE00D /* PBXTextBookmark */ = BFED7EFC12B4DFC0008CE00D /* PBXTextBookmark */;
+			BFED7EFD12B4DFC0008CE00D /* PBXTextBookmark */ = BFED7EFD12B4DFC0008CE00D /* PBXTextBookmark */;
+			BFED7EFE12B4DFC0008CE00D /* PBXTextBookmark */ = BFED7EFE12B4DFC0008CE00D /* PBXTextBookmark */;
+			BFED7F0712B4E02B008CE00D /* PBXTextBookmark */ = BFED7F0712B4E02B008CE00D /* PBXTextBookmark */;
+			BFED7F0812B4E02B008CE00D /* PBXTextBookmark */ = BFED7F0812B4E02B008CE00D /* PBXTextBookmark */;
+			BFED7F0912B4E02B008CE00D /* XCBuildMessageTextBookmark */ = BFED7F0912B4E02B008CE00D /* XCBuildMessageTextBookmark */;
+			BFED7F0A12B4E02B008CE00D /* PBXTextBookmark */ = BFED7F0A12B4E02B008CE00D /* PBXTextBookmark */;
+			BFED7F0B12B4E074008CE00D /* PBXTextBookmark */ = BFED7F0B12B4E074008CE00D /* PBXTextBookmark */;
+			BFED7F0C12B4E074008CE00D /* XCBuildMessageTextBookmark */ = BFED7F0C12B4E074008CE00D /* XCBuildMessageTextBookmark */;
+			BFED7F0D12B4E074008CE00D /* PBXTextBookmark */ = BFED7F0D12B4E074008CE00D /* PBXTextBookmark */;
+			BFED7F1012B4E07D008CE00D /* PBXTextBookmark */ = BFED7F1012B4E07D008CE00D /* PBXTextBookmark */;
+			BFED7F1112B4E07D008CE00D /* PBXTextBookmark */ = BFED7F1112B4E07D008CE00D /* PBXTextBookmark */;
+			BFED7F1212B4E07D008CE00D /* PBXTextBookmark */ = BFED7F1212B4E07D008CE00D /* PBXTextBookmark */;
+			BFED7F1312B4E093008CE00D /* PBXTextBookmark */ = BFED7F1312B4E093008CE00D /* PBXTextBookmark */;
+			BFED7F1612B4E0C3008CE00D /* PBXTextBookmark */ = BFED7F1612B4E0C3008CE00D /* PBXTextBookmark */;
+			BFED7F1B12B4E127008CE00D /* PBXTextBookmark */ = BFED7F1B12B4E127008CE00D /* PBXTextBookmark */;
+			BFED7F1C12B4E127008CE00D /* XCBuildMessageTextBookmark */ = BFED7F1C12B4E127008CE00D /* XCBuildMessageTextBookmark */;
+			BFED7F1D12B4E127008CE00D /* PBXTextBookmark */ = BFED7F1D12B4E127008CE00D /* PBXTextBookmark */;
+			BFED7F2412B4E144008CE00D /* PBXTextBookmark */ = BFED7F2412B4E144008CE00D /* PBXTextBookmark */;
+			BFED7F2512B4E144008CE00D /* PBXTextBookmark */ = BFED7F2512B4E144008CE00D /* PBXTextBookmark */;
+			BFED7F2612B4E174008CE00D /* PBXTextBookmark */ = BFED7F2612B4E174008CE00D /* PBXTextBookmark */;
+			BFED7F2712B4E174008CE00D /* PBXTextBookmark */ = BFED7F2712B4E174008CE00D /* PBXTextBookmark */;
+			BFED7F2812B4E174008CE00D /* PBXTextBookmark */ = BFED7F2812B4E174008CE00D /* PBXTextBookmark */;
+			BFED7F2912B4E174008CE00D /* PBXTextBookmark */ = BFED7F2912B4E174008CE00D /* PBXTextBookmark */;
+			BFED7F2A12B4E174008CE00D /* PBXTextBookmark */ = BFED7F2A12B4E174008CE00D /* PBXTextBookmark */;
+			BFED7F2F12B4E291008CE00D /* PBXTextBookmark */ = BFED7F2F12B4E291008CE00D /* PBXTextBookmark */;
+			BFED7F3212B4E2B0008CE00D /* PBXTextBookmark */ = BFED7F3212B4E2B0008CE00D /* PBXTextBookmark */;
+			BFED7F3912B4E2C1008CE00D /* PBXTextBookmark */ = BFED7F3912B4E2C1008CE00D /* PBXTextBookmark */;
+			BFED7F3E12B4E2F9008CE00D /* PBXTextBookmark */ = BFED7F3E12B4E2F9008CE00D /* PBXTextBookmark */;
+			BFED7F4112B4E311008CE00D /* PBXTextBookmark */ = BFED7F4112B4E311008CE00D /* PBXTextBookmark */;
+			BFED7F4212B4E315008CE00D /* PBXTextBookmark */ = BFED7F4212B4E315008CE00D /* PBXTextBookmark */;
+			BFED7F4312B4E315008CE00D /* PBXTextBookmark */ = BFED7F4312B4E315008CE00D /* PBXTextBookmark */;
+			BFED7F4412B4E315008CE00D /* PBXTextBookmark */ = BFED7F4412B4E315008CE00D /* PBXTextBookmark */;
+			BFED7F4512B4E315008CE00D /* PBXTextBookmark */ = BFED7F4512B4E315008CE00D /* PBXTextBookmark */;
+			BFED7F4612B4E315008CE00D /* PBXTextBookmark */ = BFED7F4612B4E315008CE00D /* PBXTextBookmark */;
+			BFED7F4712B4E315008CE00D /* PBXTextBookmark */ = BFED7F4712B4E315008CE00D /* PBXTextBookmark */;
+			BFED7F4E12B4E3CF008CE00D /* PBXTextBookmark */ = BFED7F4E12B4E3CF008CE00D /* PBXTextBookmark */;
+			BFED7F4F12B4E3D1008CE00D /* PBXTextBookmark */ = BFED7F4F12B4E3D1008CE00D /* PBXTextBookmark */;
+			BFED7F5012B4E3D1008CE00D /* PBXTextBookmark */ = BFED7F5012B4E3D1008CE00D /* PBXTextBookmark */;
+			BFED7F5112B4E3D1008CE00D /* PBXTextBookmark */ = BFED7F5112B4E3D1008CE00D /* PBXTextBookmark */;
+			BFED7F5212B4E3D1008CE00D /* PBXTextBookmark */ = BFED7F5212B4E3D1008CE00D /* PBXTextBookmark */;
+			BFED7F5312B4E3D1008CE00D /* PBXTextBookmark */ = BFED7F5312B4E3D1008CE00D /* PBXTextBookmark */;
+			BFED7F5412B4E3D1008CE00D /* PBXTextBookmark */ = BFED7F5412B4E3D1008CE00D /* PBXTextBookmark */;
+			BFED7F5512B4E3D1008CE00D /* PBXTextBookmark */ = BFED7F5512B4E3D1008CE00D /* PBXTextBookmark */;
+			BFED7F5A12B4E4BA008CE00D /* PBXTextBookmark */ = BFED7F5A12B4E4BA008CE00D /* PBXTextBookmark */;
+			BFED7F5D12B4E4D3008CE00D /* PBXTextBookmark */ = BFED7F5D12B4E4D3008CE00D /* PBXTextBookmark */;
+			BFED7F6012B4E516008CE00D /* PBXTextBookmark */ = BFED7F6012B4E516008CE00D /* PBXTextBookmark */;
+			BFED7F6512B4E52C008CE00D /* PBXTextBookmark */ = BFED7F6512B4E52C008CE00D /* PBXTextBookmark */;
+			BFED7F6812B4E55E008CE00D /* PBXTextBookmark */ = BFED7F6812B4E55E008CE00D /* PBXTextBookmark */;
+			BFED7F6B12B4E591008CE00D /* PBXTextBookmark */ = BFED7F6B12B4E591008CE00D /* PBXTextBookmark */;
+			BFED7F6E12B4E5A9008CE00D /* PBXTextBookmark */ = BFED7F6E12B4E5A9008CE00D /* PBXTextBookmark */;
+			BFED7F7312B4E5EE008CE00D /* PBXTextBookmark */ = BFED7F7312B4E5EE008CE00D /* PBXTextBookmark */;
+			BFED7F7612B4E600008CE00D /* PBXTextBookmark */ = BFED7F7612B4E600008CE00D /* PBXTextBookmark */;
+			BFED7F7912B4E60E008CE00D /* PBXTextBookmark */ = BFED7F7912B4E60E008CE00D /* PBXTextBookmark */;
+			BFED7F8412B4E620008CE00D /* PBXTextBookmark */ = BFED7F8412B4E620008CE00D /* PBXTextBookmark */;
+			BFED7F8512B4E674008CE00D /* PBXTextBookmark */ = BFED7F8512B4E674008CE00D /* PBXTextBookmark */;
+			BFED7F8612B4E674008CE00D /* PBXTextBookmark */ = BFED7F8612B4E674008CE00D /* PBXTextBookmark */;
+			BFED7F8712B4E674008CE00D /* PBXTextBookmark */ = BFED7F8712B4E674008CE00D /* PBXTextBookmark */;
+			BFED7F8812B4E674008CE00D /* PBXTextBookmark */ = BFED7F8812B4E674008CE00D /* PBXTextBookmark */;
+			BFED7F8912B4E674008CE00D /* PBXTextBookmark */ = BFED7F8912B4E674008CE00D /* PBXTextBookmark */;
+			BFED7F8A12B4E674008CE00D /* PBXTextBookmark */ = BFED7F8A12B4E674008CE00D /* PBXTextBookmark */;
+			BFED7F8D12B4E69F008CE00D /* PBXTextBookmark */ = BFED7F8D12B4E69F008CE00D /* PBXTextBookmark */;
+			BFED7F8E12B4E6A6008CE00D /* PBXTextBookmark */ = BFED7F8E12B4E6A6008CE00D /* PBXTextBookmark */;
+			BFED7F8F12B4E6A9008CE00D /* PBXTextBookmark */ = BFED7F8F12B4E6A9008CE00D /* PBXTextBookmark */;
 		};
 		sourceControlManager = BFA54DB312B4205800713CE4 /* Source Control */;
 		userBuildSettings = {
@@ -203,9 +352,9 @@
 	};
 	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 522}}";
-			sepNavSelRange = "{155, 0}";
-			sepNavVisRange = "{0, 174}";
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 507}}";
+			sepNavSelRange = "{310, 0}";
+			sepNavVisRange = "{0, 828}";
 		};
 	};
 	8DD76F620486A84900D96B5E /* Evolution */ = {
@@ -256,7 +405,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 2";
 		rLen = 0;
-		rLoc = 43;
+		rLoc = 59;
 		rType = 0;
 		vrLen = 303;
 		vrLoc = 0;
@@ -431,16 +580,16 @@
 	};
 	BFED7BED12B49423008CE00D /* Chromosome.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 559}}";
-			sepNavSelRange = "{829, 0}";
-			sepNavVisRange = "{20, 1263}";
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 637}}";
+			sepNavSelRange = "{700, 0}";
+			sepNavVisRange = "{140, 1251}";
 		};
 	};
 	BFED7BEE12B49423008CE00D /* Chromosome.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 2561}}";
-			sepNavSelRange = "{1538, 0}";
-			sepNavVisRange = "{1343, 723}";
+			sepNavIntBoundsRect = "{{0, 0}, {1201, 2561}}";
+			sepNavSelRange = "{3884, 0}";
+			sepNavVisRange = "{3560, 836}";
 			sepNavWindowFrame = "{{15, 134}, {1073, 739}}";
 		};
 	};
@@ -450,7 +599,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 0;
-		rLoc = 81;
+		rLoc = 82;
 		rType = 1;
 	};
 	BFED7C2812B4A608008CE00D /* PBXTextBookmark */ = {
@@ -458,7 +607,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 54";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 254;
 		vrLoc = 978;
@@ -484,7 +633,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 2";
 		rLen = 0;
-		rLoc = 31;
+		rLoc = 37;
 		rType = 0;
 		vrLen = 148;
 		vrLoc = 0;
@@ -494,7 +643,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 27";
 		rLen = 0;
-		rLoc = 1081;
+		rLoc = 1188;
 		rType = 0;
 		vrLen = 714;
 		vrLoc = 0;
@@ -505,7 +654,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 0;
-		rLoc = 81;
+		rLoc = 82;
 		rType = 1;
 	};
 	BFED7C3912B4A626008CE00D /* PBXTextBookmark */ = {
@@ -513,7 +662,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 53";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 860;
 		vrLoc = 467;
@@ -523,7 +672,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 53";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 860;
 		vrLoc = 467;
@@ -533,7 +682,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 51";
 		rLen = 0;
-		rLoc = 1730;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 860;
 		vrLoc = 467;
@@ -543,7 +692,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 27";
 		rLen = 0;
-		rLoc = 1081;
+		rLoc = 1188;
 		rType = 0;
 		vrLen = 714;
 		vrLoc = 0;
@@ -553,7 +702,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 58";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 785;
 		vrLoc = 820;
@@ -563,7 +712,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 55";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 879;
 		vrLoc = 695;
@@ -573,7 +722,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 24";
 		rLen = 0;
-		rLoc = 975;
+		rLoc = 1083;
 		rType = 0;
 		vrLen = 789;
 		vrLoc = 0;
@@ -583,7 +732,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 45";
 		rLen = 0;
-		rLoc = 1594;
+		rLoc = 1616;
 		rType = 0;
 		vrLen = 758;
 		vrLoc = 762;
@@ -593,7 +742,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 56";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 786;
 		vrLoc = 854;
@@ -603,7 +752,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 19";
 		rLen = 0;
-		rLoc = 772;
+		rLoc = 816;
 		rType = 0;
 		vrLen = 795;
 		vrLoc = 0;
@@ -613,7 +762,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 72";
 		rLen = 0;
-		rLoc = 2781;
+		rLoc = 2796;
 		rType = 0;
 		vrLen = 850;
 		vrLoc = 142;
@@ -623,7 +772,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 72";
 		rLen = 0;
-		rLoc = 2781;
+		rLoc = 2796;
 		rType = 0;
 		vrLen = 850;
 		vrLoc = 142;
@@ -633,7 +782,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 31";
 		rLen = 0;
-		rLoc = 1280;
+		rLoc = 1387;
 		rType = 0;
 		vrLen = 862;
 		vrLoc = 0;
@@ -643,7 +792,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 70";
 		rLen = 67;
-		rLoc = 2548;
+		rLoc = 2563;
 		rType = 0;
 		vrLen = 824;
 		vrLoc = 817;
@@ -653,7 +802,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 61";
 		rLen = 0;
-		rLoc = 1928;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 849;
 		vrLoc = 746;
@@ -663,7 +812,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 34";
 		rLen = 0;
-		rLoc = 1280;
+		rLoc = 1387;
 		rType = 0;
 		vrLen = 922;
 		vrLoc = 0;
@@ -672,8 +821,8 @@
 		isa = PBXTextBookmark;
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 72";
-		rLen = 68;
-		rLoc = 2092;
+		rLen = 0;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 798;
 		vrLoc = 988;
@@ -683,7 +832,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 22";
 		rLen = 0;
-		rLoc = 446;
+		rLoc = 467;
 		rType = 0;
 		vrLen = 966;
 		vrLoc = 1417;
@@ -693,7 +842,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 34";
 		rLen = 0;
-		rLoc = 1280;
+		rLoc = 1387;
 		rType = 0;
 		vrLen = 922;
 		vrLoc = 0;
@@ -703,7 +852,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 106";
 		rLen = 0;
-		rLoc = 2829;
+		rLoc = 2844;
 		rType = 0;
 		vrLen = 966;
 		vrLoc = 1417;
@@ -713,7 +862,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 36";
 		rLen = 0;
-		rLoc = 1498;
+		rLoc = 1521;
 		rType = 0;
 		vrLen = 910;
 		vrLoc = 142;
@@ -723,7 +872,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 24";
 		rLen = 21;
-		rLoc = 831;
+		rLoc = 875;
 		rType = 0;
 		vrLen = 945;
 		vrLoc = 0;
@@ -733,7 +882,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 116";
 		rLen = 0;
-		rLoc = 4258;
+		rLoc = 4273;
 		rType = 0;
 		vrLen = 966;
 		vrLoc = 1388;
@@ -743,7 +892,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 119";
 		rLen = 0;
-		rLoc = 3630;
+		rLoc = 3645;
 		rType = 0;
 		vrLen = 952;
 		vrLoc = 1480;
@@ -753,7 +902,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 251;
 		vrLoc = 1109;
@@ -763,7 +912,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 251;
 		vrLoc = 1109;
@@ -773,7 +922,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 251;
 		vrLoc = 1109;
@@ -783,7 +932,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 316;
 		vrLoc = 1388;
@@ -793,7 +942,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 12";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 428;
 		vrLoc = 0;
@@ -803,7 +952,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 24";
 		rLen = 0;
-		rLoc = 852;
+		rLoc = 896;
 		rType = 0;
 		vrLen = 974;
 		vrLoc = 0;
@@ -813,7 +962,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 15";
 		rLen = 0;
-		rLoc = 268;
+		rLoc = 289;
 		rType = 0;
 		vrLen = 865;
 		vrLoc = 0;
@@ -823,7 +972,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 99";
 		rLen = 0;
-		rLoc = 2450;
+		rLoc = 2465;
 		rType = 0;
 		vrLen = 834;
 		vrLoc = 1492;
@@ -833,7 +982,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 69";
 		rLen = 0;
-		rLoc = 2029;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 778;
 		vrLoc = 692;
@@ -843,7 +992,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 112";
 		rLen = 66;
-		rLoc = 2465;
+		rLoc = 2480;
 		rType = 0;
 		vrLen = 842;
 		vrLoc = 1629;
@@ -853,7 +1002,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 1557;
@@ -863,7 +1012,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 36";
 		rLen = 0;
-		rLoc = 1196;
+		rLoc = 1303;
 		rType = 0;
 		vrLen = 974;
 		vrLoc = 0;
@@ -872,8 +1021,8 @@
 		isa = PBXTextBookmark;
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 79";
-		rLen = 4;
-		rLoc = 2092;
+		rLen = 0;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 839;
 		vrLoc = 807;
@@ -883,7 +1032,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 56";
 		rLen = 0;
-		rLoc = 1847;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 762;
 		vrLoc = 795;
@@ -893,7 +1042,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 47";
 		rLen = 0;
-		rLoc = 1627;
+		rLoc = 1649;
 		rType = 0;
 		vrLen = 762;
 		vrLoc = 795;
@@ -903,7 +1052,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 12";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 428;
 		vrLoc = 0;
@@ -913,7 +1062,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 15";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 523;
 		vrLoc = 0;
@@ -923,7 +1072,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 15";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 523;
 		vrLoc = 0;
@@ -933,7 +1082,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 15";
 		rLen = 0;
-		rLoc = 441;
+		rLoc = 500;
 		rType = 0;
 		vrLen = 964;
 		vrLoc = 0;
@@ -943,7 +1092,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 18";
 		rLen = 0;
-		rLoc = 360;
+		rLoc = 381;
 		rType = 0;
 		vrLen = 908;
 		vrLoc = 142;
@@ -953,7 +1102,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 23";
 		rLen = 0;
-		rLoc = 473;
+		rLoc = 494;
 		rType = 0;
 		vrLen = 863;
 		vrLoc = 0;
@@ -963,7 +1112,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 1555;
@@ -973,7 +1122,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 23";
 		rLen = 0;
-		rLoc = 473;
+		rLoc = 494;
 		rType = 0;
 		vrLen = 863;
 		vrLoc = 0;
@@ -983,7 +1132,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 24";
 		rLen = 0;
-		rLoc = 701;
+		rLoc = 722;
 		rType = 0;
 		vrLen = 885;
 		vrLoc = 141;
@@ -993,7 +1142,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 15";
 		rLen = 0;
-		rLoc = 441;
+		rLoc = 500;
 		rType = 0;
 		vrLen = 964;
 		vrLoc = 0;
@@ -1003,7 +1152,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 19";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 523;
 		vrLoc = 0;
@@ -1013,7 +1162,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 1555;
@@ -1023,7 +1172,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 19";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 523;
 		vrLoc = 0;
@@ -1033,7 +1182,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 1555;
@@ -1043,7 +1192,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 12";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 523;
 		vrLoc = 0;
@@ -1053,7 +1202,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 25";
 		rLen = 0;
-		rLoc = 963;
+		rLoc = 1071;
 		rType = 0;
 		vrLen = 965;
 		vrLoc = 0;
@@ -1063,7 +1212,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 24";
 		rLen = 0;
-		rLoc = 701;
+		rLoc = 722;
 		rType = 0;
 		vrLen = 885;
 		vrLoc = 141;
@@ -1073,7 +1222,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 24";
 		rLen = 0;
-		rLoc = 701;
+		rLoc = 722;
 		rType = 0;
 		vrLen = 819;
 		vrLoc = 863;
@@ -1083,7 +1232,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 37";
 		rLen = 29;
-		rLoc = 1251;
+		rLoc = 1358;
 		rType = 0;
 		vrLen = 996;
 		vrLoc = 0;
@@ -1093,7 +1242,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 128";
 		rLen = 0;
-		rLoc = 3057;
+		rLoc = 3072;
 		rType = 0;
 		vrLen = 995;
 		vrLoc = 2177;
@@ -1103,7 +1252,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 145";
 		rLen = 0;
-		rLoc = 3445;
+		rLoc = 3460;
 		rType = 0;
 		vrLen = 947;
 		vrLoc = 2281;
@@ -1113,7 +1262,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 129";
 		rLen = 0;
-		rLoc = 3083;
+		rLoc = 3098;
 		rType = 0;
 		vrLen = 911;
 		vrLoc = 2281;
@@ -1123,7 +1272,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 336;
 		vrLoc = 1827;
@@ -1133,7 +1282,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 142";
 		rLen = 0;
-		rLoc = 3384;
+		rLoc = 3399;
 		rType = 0;
 		vrLen = 971;
 		vrLoc = 2578;
@@ -1143,7 +1292,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 336;
 		vrLoc = 1827;
@@ -1153,7 +1302,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 140";
 		rLen = 0;
-		rLoc = 3340;
+		rLoc = 3355;
 		rType = 0;
 		vrLen = 957;
 		vrLoc = 2578;
@@ -1163,7 +1312,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 1786;
@@ -1173,7 +1322,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 1786;
@@ -1183,7 +1332,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 315;
 		vrLoc = 1869;
@@ -1193,7 +1342,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 1786;
@@ -1203,7 +1352,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 1786;
@@ -1213,7 +1362,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 329;
 		vrLoc = 2089;
@@ -1223,7 +1372,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 59";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 377;
 		vrLoc = 2085;
@@ -1233,7 +1382,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 69";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 315;
 		vrLoc = 2583;
@@ -1243,7 +1392,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 69";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 331;
 		vrLoc = 2592;
@@ -1253,7 +1402,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 69";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 331;
 		vrLoc = 2592;
@@ -1263,7 +1412,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 11";
 		rLen = 0;
-		rLoc = 356;
+		rLoc = 399;
 		rType = 0;
 		vrLen = 1032;
 		vrLoc = 0;
@@ -1273,7 +1422,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 29";
 		rLen = 0;
-		rLoc = 604;
+		rLoc = 625;
 		rType = 0;
 		vrLen = 981;
 		vrLoc = 3;
@@ -1283,7 +1432,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 10";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 658;
 		vrLoc = 0;
@@ -1293,7 +1442,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 10";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 759;
 		vrLoc = 0;
@@ -1303,7 +1452,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 10";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 759;
 		vrLoc = 0;
@@ -1313,7 +1462,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 29";
 		rLen = 0;
-		rLoc = 604;
+		rLoc = 625;
 		rType = 0;
 		vrLen = 981;
 		vrLoc = 3;
@@ -1323,7 +1472,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 151";
 		rLen = 0;
-		rLoc = 3311;
+		rLoc = 3326;
 		rType = 0;
 		vrLen = 1022;
 		vrLoc = 2690;
@@ -1333,7 +1482,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 69";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 352;
 		vrLoc = 2593;
@@ -1343,7 +1492,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 69";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 352;
 		vrLoc = 2593;
@@ -1353,7 +1502,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 69";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 367;
 		vrLoc = 2555;
@@ -1363,7 +1512,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 22";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 608;
 		vrLoc = 0;
@@ -1373,7 +1522,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 34";
 		rLen = 0;
-		rLoc = 1100;
+		rLoc = 1207;
 		rType = 0;
 		vrLen = 1034;
 		vrLoc = 0;
@@ -1383,7 +1532,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 86";
 		rLen = 0;
-		rLoc = 2096;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 750;
 		vrLoc = 1418;
@@ -1393,7 +1542,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 106";
 		rLen = 0;
-		rLoc = 2544;
+		rLoc = 2559;
 		rType = 0;
 		vrLen = 921;
 		vrLoc = 142;
@@ -1403,7 +1552,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 39";
 		rLen = 0;
-		rLoc = 1065;
+		rLoc = 1087;
 		rType = 0;
 		vrLen = 959;
 		vrLoc = 80;
@@ -1413,7 +1562,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 39";
 		rLen = 0;
-		rLoc = 1065;
+		rLoc = 1087;
 		rType = 0;
 		vrLen = 916;
 		vrLoc = 167;
@@ -1423,7 +1572,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 12";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 273;
 		rType = 0;
 		vrLen = 1052;
 		vrLoc = 0;
@@ -1433,7 +1582,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 13";
 		rLen = 0;
-		rLoc = 415;
+		rLoc = 500;
 		rType = 0;
 		vrLen = 1160;
 		vrLoc = 0;
@@ -1443,7 +1592,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 16";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 781;
 		vrLoc = 0;
@@ -1453,7 +1602,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 38";
 		rLen = 0;
-		rLoc = 1065;
+		rLoc = 1087;
 		rType = 0;
 		vrLen = 910;
 		vrLoc = 134;
@@ -1463,7 +1612,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 13";
 		rLen = 16;
-		rLoc = 262;
+		rLoc = 305;
 		rType = 0;
 		vrLen = 1170;
 		vrLoc = 0;
@@ -1473,7 +1622,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 13";
 		rLen = 0;
-		rLoc = 310;
+		rLoc = 353;
 		rType = 0;
 		vrLen = 1172;
 		vrLoc = 0;
@@ -1483,7 +1632,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 70";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 323;
 		vrLoc = 2622;
@@ -1493,7 +1642,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 22";
 		rLen = 0;
-		rLoc = 611;
+		rLoc = 654;
 		rType = 0;
 		vrLen = 1172;
 		vrLoc = 0;
@@ -1503,7 +1652,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 16";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 781;
 		vrLoc = 0;
@@ -1513,7 +1662,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 26";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 777;
 		vrLoc = 0;
@@ -1523,7 +1672,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 10";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 777;
 		vrLoc = 0;
@@ -1533,7 +1682,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 22";
 		rLen = 0;
-		rLoc = 611;
+		rLoc = 654;
 		rType = 0;
 		vrLen = 1172;
 		vrLoc = 0;
@@ -1553,7 +1702,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 70";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 323;
 		vrLoc = 2622;
@@ -1563,7 +1712,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 27";
 		rLen = 0;
-		rLoc = 579;
+		rLoc = 600;
 		rType = 0;
 		vrLen = 934;
 		vrLoc = 0;
@@ -1573,7 +1722,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 24";
 		rLen = 0;
-		rLoc = 756;
+		rLoc = 800;
 		rType = 0;
 		vrLen = 1173;
 		vrLoc = 0;
@@ -1583,21 +1732,21 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 24";
 		rLen = 0;
-		rLoc = 756;
+		rLoc = 800;
 		rType = 0;
 		vrLen = 1173;
 		vrLoc = 0;
 	};
 	BFED7DB812B4C455008CE00D /* Probablilty.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 522}}";
-			sepNavSelRange = "{241, 0}";
-			sepNavVisRange = "{0, 295}";
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 499}}";
+			sepNavSelRange = "{341, 0}";
+			sepNavVisRange = "{0, 348}";
 		};
 	};
 	BFED7DB912B4C455008CE00D /* Probablilty.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 522}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 499}}";
 			sepNavSelRange = "{171, 0}";
 			sepNavVisRange = "{0, 571}";
 		};
@@ -1607,7 +1756,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 70";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 284;
 		vrLoc = 2638;
@@ -1617,7 +1766,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 70";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 284;
 		vrLoc = 2638;
@@ -1627,7 +1776,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 7";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 781;
 		vrLoc = 0;
@@ -1647,7 +1796,7 @@
 		fRef = BFED7DB812B4C455008CE00D /* Probablilty.h */;
 		name = "Probablilty.h: 13";
 		rLen = 0;
-		rLoc = 241;
+		rLoc = 286;
 		rType = 0;
 		vrLen = 295;
 		vrLoc = 0;
@@ -1657,7 +1806,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 41";
 		rLen = 0;
-		rLoc = 1056;
+		rLoc = 1078;
 		rType = 0;
 		vrLen = 853;
 		vrLoc = 391;
@@ -1667,7 +1816,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 13";
 		rLen = 0;
-		rLoc = 253;
+		rLoc = 296;
 		rType = 0;
 		vrLen = 1200;
 		vrLoc = 0;
@@ -1677,7 +1826,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 24";
 		rLen = 0;
-		rLoc = 687;
+		rLoc = 731;
 		rType = 0;
 		vrLen = 1200;
 		vrLoc = 0;
@@ -1687,7 +1836,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1697,7 +1846,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1707,7 +1856,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1717,7 +1866,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1727,7 +1876,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1737,7 +1886,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1747,7 +1896,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1757,7 +1906,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 3286;
@@ -1767,7 +1916,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 234;
 		vrLoc = 3286;
@@ -1777,7 +1926,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 81";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 281;
 		vrLoc = 3286;
@@ -1787,7 +1936,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 82";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 301;
 		vrLoc = 3264;
@@ -1797,7 +1946,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 82";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 301;
 		vrLoc = 3264;
@@ -1807,7 +1956,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 82";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 301;
 		vrLoc = 3264;
@@ -1827,7 +1976,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 44";
 		rLen = 0;
-		rLoc = 1063;
+		rLoc = 1085;
 		rType = 0;
 		vrLen = 1000;
 		vrLoc = 0;
@@ -1837,7 +1986,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 20";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 1174;
 		vrLoc = 44;
@@ -1847,7 +1996,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 14";
 		rLen = 0;
-		rLoc = 304;
+		rLoc = 347;
 		rType = 0;
 		vrLen = 1261;
 		vrLoc = 20;
@@ -1857,7 +2006,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 15";
 		rLen = 0;
-		rLoc = 357;
+		rLoc = 400;
 		rType = 0;
 		vrLen = 1262;
 		vrLoc = 20;
@@ -1867,7 +2016,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 82";
 		rLen = 0;
-		rLoc = 1885;
+		rLoc = 1652;
 		rType = 0;
 		vrLen = 301;
 		vrLoc = 3264;
@@ -1877,7 +2026,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 13";
 		rLen = 0;
-		rLoc = 253;
+		rLoc = 296;
 		rType = 0;
 		vrLen = 1264;
 		vrLoc = 20;
@@ -1887,7 +2036,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 20";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 1198;
 		vrLoc = 20;
@@ -1897,7 +2046,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 7";
 		rLen = 0;
-		rLoc = 154;
+		rLoc = 142;
 		rType = 0;
 		vrLen = 146;
 		vrLoc = 0;
@@ -1907,7 +2056,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 10";
 		rLen = 0;
-		rLoc = 155;
+		rLoc = 143;
 		rType = 0;
 		vrLen = 174;
 		vrLoc = 0;
@@ -1917,7 +2066,7 @@
 		fRef = BFED7DB812B4C455008CE00D /* Probablilty.h */;
 		name = "Probablilty.h: 13";
 		rLen = 0;
-		rLoc = 241;
+		rLoc = 286;
 		rType = 0;
 		vrLen = 295;
 		vrLoc = 0;
@@ -1927,7 +2076,7 @@
 		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
 		name = "Chromosome.cpp: 65";
 		rLen = 0;
-		rLoc = 1538;
+		rLoc = 1561;
 		rType = 0;
 		vrLen = 723;
 		vrLoc = 1343;
@@ -1937,7 +2086,7 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 27";
 		rLen = 11;
-		rLoc = 815;
+		rLoc = 859;
 		rType = 0;
 		vrLen = 1263;
 		vrLoc = 20;
@@ -1947,9 +2096,1515 @@
 		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
 		name = "Chromosome.h: 27";
 		rLen = 0;
-		rLoc = 829;
+		rLoc = 873;
 		rType = 0;
 		vrLen = 1263;
 		vrLoc = 20;
+	};
+	BFED7E3C12B4CEA3008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 27";
+		rLen = 0;
+		rLoc = 873;
+		rType = 0;
+		vrLen = 1263;
+		vrLoc = 20;
+	};
+	BFED7E3D12B4CEA3008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7DB812B4C455008CE00D /* Probablilty.h */;
+		name = "Probablilty.h: 13";
+		rLen = 0;
+		rLoc = 286;
+		rType = 0;
+		vrLen = 295;
+		vrLoc = 0;
+	};
+	BFED7E3E12B4CEA3008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 14";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 260;
+		vrLoc = 0;
+	};
+	BFED7E4512B4CEF9008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 16";
+		rLen = 0;
+		rLoc = 690;
+		rType = 0;
+		vrLen = 313;
+		vrLoc = 0;
+	};
+	BFED7E4C12B4CF8A008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 82";
+		rLen = 0;
+		rLoc = 1652;
+		rType = 0;
+		vrLen = 256;
+		vrLoc = 3311;
+	};
+	BFED7E5212B4CFBC008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 82";
+		rLen = 0;
+		rLoc = 1652;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 3311;
+	};
+	BFED7E5712B4CFE5008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 82";
+		rLen = 0;
+		rLoc = 1652;
+		rType = 0;
+		vrLen = 256;
+		vrLoc = 3311;
+	};
+	BFED7E5812B4CFFF008CE00D /* Evolver.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 499}}";
+			sepNavSelRange = "{199, 0}";
+			sepNavVisRange = "{0, 544}";
+		};
+	};
+	BFED7E5912B4CFFF008CE00D /* Evolver.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 499}}";
+			sepNavSelRange = "{389, 0}";
+			sepNavVisRange = "{0, 440}";
+		};
+	};
+	BFED7E5F12B4D03F008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 82";
+		rLen = 0;
+		rLoc = 1652;
+		rType = 0;
+		vrLen = 256;
+		vrLoc = 3311;
+	};
+	BFED7E6012B4D08B008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 137;
+		vrLoc = 0;
+	};
+	BFED7E6112B4D08B008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 65";
+		rLen = 0;
+		rLoc = 1561;
+		rType = 0;
+		vrLen = 723;
+		vrLoc = 1343;
+	};
+	BFED7E6212B4D08B008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 27";
+		rLen = 0;
+		rLoc = 873;
+		rType = 0;
+		vrLen = 1263;
+		vrLoc = 20;
+	};
+	BFED7E6312B4D08B008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 23";
+		rLen = 0;
+		rLoc = 710;
+		rType = 0;
+		vrLen = 435;
+		vrLoc = 0;
+	};
+	BFED7E6412B4D08B008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 27";
+		rLen = 0;
+		rLoc = 685;
+		rType = 0;
+		vrLen = 523;
+		vrLoc = 0;
+	};
+	BFED7E6712B4D4E7008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 82";
+		rLen = 0;
+		rLoc = 1652;
+		rType = 0;
+		vrLen = 269;
+		vrLoc = 3311;
+	};
+	BFED7E6812B4D4E7008CE00D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Variable or field 'initializePool' declared void";
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 26;
+		rType = 1;
+	};
+	BFED7E6912B4D4E7008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 18";
+		rLen = 0;
+		rLoc = 450;
+		rType = 0;
+		vrLen = 356;
+		vrLoc = 31;
+	};
+	BFED7E7012B4D526008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 19";
+		rLen = 0;
+		rLoc = 450;
+		rType = 0;
+		vrLen = 336;
+		vrLoc = 31;
+	};
+	BFED7E7112B4D526008CE00D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected primary-expression before '(' token";
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 10;
+		rType = 1;
+	};
+	BFED7E7212B4D526008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 12";
+		rLen = 0;
+		rLoc = 145;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	BFED7E7312B4D541008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7DB912B4C455008CE00D /* Probablilty.cpp */;
+		name = "Probablilty.cpp: 10";
+		rLen = 0;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 571;
+		vrLoc = 0;
+	};
+	BFED7E7412B4D541008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 13";
+		rLen = 0;
+		rLoc = 240;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 0;
+	};
+	BFED7E7512B4D541008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 12";
+		rLen = 0;
+		rLoc = 145;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 0;
+	};
+	BFED7E7612B4D541008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 27";
+		rLen = 0;
+		rLoc = 873;
+		rType = 0;
+		vrLen = 1263;
+		vrLoc = 20;
+	};
+	BFED7E7712B4D541008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 17";
+		rLen = 0;
+		rLoc = 448;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 0;
+	};
+	BFED7E7812B4D541008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 17";
+		rLen = 0;
+		rLoc = 448;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 0;
+	};
+	BFED7E7D12B4D5AD008CE00D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected primary-expression before '(' token";
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 10;
+		rType = 1;
+	};
+	BFED7E7E12B4D5AD008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 11";
+		rLen = 0;
+		rLoc = 145;
+		rType = 0;
+		vrLen = 305;
+		vrLoc = 0;
+	};
+	BFED7E7F12B4D5EB008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 18";
+		rLen = 0;
+		rLoc = 384;
+		rType = 0;
+		vrLen = 1000;
+		vrLoc = 0;
+	};
+	BFED7E8012B4D5EB008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 17";
+		rLen = 0;
+		rLoc = 380;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 0;
+	};
+	BFED7E8112B4D5EB008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 11";
+		rLen = 0;
+		rLoc = 145;
+		rType = 0;
+		vrLen = 344;
+		vrLoc = 0;
+	};
+	BFED7E8212B4D5EB008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 12";
+		rLen = 41;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 1173;
+		vrLoc = 3;
+	};
+	BFED7E8312B4D5EB008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7DB812B4C455008CE00D /* Probablilty.h */;
+		name = "Probablilty.h: 13";
+		rLen = 0;
+		rLoc = 286;
+		rType = 0;
+		vrLen = 295;
+		vrLoc = 0;
+	};
+	BFED7E8412B4D5EB008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7DB812B4C455008CE00D /* Probablilty.h */;
+		name = "Probablilty.h: 12";
+		rLen = 0;
+		rLoc = 193;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	BFED7E9712B4D675008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7DB812B4C455008CE00D /* Probablilty.h */;
+		name = "Probablilty.h: 18";
+		rLen = 0;
+		rLoc = 341;
+		rType = 0;
+		vrLen = 348;
+		vrLoc = 0;
+	};
+	BFED7E9812B4D675008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 24";
+		rLen = 0;
+		rLoc = 544;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 0;
+	};
+	BFED7E9912B4D675008CE00D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected primary-expression before '(' token";
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 10;
+		rType = 1;
+	};
+	BFED7E9A12B4D675008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 12";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 404;
+		vrLoc = 0;
+	};
+	BFED7E9B12B4D6AA008CE00D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected primary-expression before '(' token";
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 10;
+		rType = 1;
+	};
+	BFED7E9C12B4D6AA008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 12";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 0;
+	};
+	BFED7EA512B4D75A008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 12";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 0;
+	};
+	BFED7EA612B4D75A008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 13";
+		rLen = 0;
+		rLoc = 199;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 0;
+	};
+	BFED7EA712B4D75A008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 11";
+		rLen = 0;
+		rLoc = 169;
+		rType = 0;
+		vrLen = 434;
+		vrLoc = 0;
+	};
+	BFED7EA812B4D75A008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 17";
+		rLen = 0;
+		rLoc = 688;
+		rType = 0;
+		vrLen = 434;
+		vrLoc = 0;
+	};
+	BFED7EB712B4D7BF008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 11";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	BFED7EBC12B4D8E8008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 11";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	BFED7EBF12B4D8EE008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 11";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	BFED7EC012B4D8F8008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 12";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 0;
+	};
+	BFED7EC112B4D8F8008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 21";
+		rLen = 0;
+		rLoc = 448;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	BFED7EC212B4D8F8008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 5";
+		rLen = 0;
+		rLoc = 60;
+		rType = 0;
+		vrLen = 410;
+		vrLoc = 0;
+	};
+	BFED7EC312B4D8F8008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 12";
+		rLen = 0;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 454;
+		vrLoc = 0;
+	};
+	BFED7EC412B4DAB7008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 26";
+		rLen = 0;
+		rLoc = 828;
+		rType = 0;
+		vrLen = 454;
+		vrLoc = 0;
+	};
+	BFED7EC512B4DBBB008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 21";
+		rLen = 0;
+		rLoc = 448;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	BFED7EC612B4DBBB008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 12";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 0;
+	};
+	BFED7EC712B4DBBB008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7DB912B4C455008CE00D /* Probablilty.cpp */;
+		name = "Probablilty.cpp: 10";
+		rLen = 0;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 571;
+		vrLoc = 0;
+	};
+	BFED7EC812B4DBBB008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7DB812B4C455008CE00D /* Probablilty.h */;
+		name = "Probablilty.h: 18";
+		rLen = 0;
+		rLoc = 341;
+		rType = 0;
+		vrLen = 348;
+		vrLoc = 0;
+	};
+	BFED7EC912B4DBBB008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 12";
+		rLen = 41;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 1173;
+		vrLoc = 3;
+	};
+	BFED7ECA12B4DBBB008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 26";
+		rLen = 0;
+		rLoc = 828;
+		rType = 0;
+		vrLen = 454;
+		vrLoc = 0;
+	};
+	BFED7ECB12B4DBBB008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 18";
+		rLen = 0;
+		rLoc = 616;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 0;
+	};
+	BFED7ECE12B4DC22008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 18";
+		rLen = 0;
+		rLoc = 616;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 0;
+	};
+	BFED7ECF12B4DC22008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 12";
+		rLen = 41;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 1173;
+		vrLoc = 3;
+	};
+	BFED7ED012B4DC22008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 200";
+		rLen = 0;
+		rLoc = 4273;
+		rType = 0;
+		vrLen = 897;
+		vrLoc = 3531;
+	};
+	BFED7ED512B4DCA9008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 199";
+		rLen = 0;
+		rLoc = 4273;
+		rType = 0;
+		vrLen = 918;
+		vrLoc = 3531;
+	};
+	BFED7ED812B4DD56008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 200";
+		rLen = 0;
+		rLoc = 4273;
+		rType = 0;
+		vrLen = 856;
+		vrLoc = 3531;
+	};
+	BFED7EDF12B4DDCF008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 21";
+		rLen = 0;
+		rLoc = 463;
+		rType = 0;
+		vrLen = 1173;
+		vrLoc = 160;
+	};
+	BFED7EE012B4DDCF008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 114";
+		rLen = 0;
+		rLoc = 2444;
+		rType = 0;
+		vrLen = 856;
+		vrLoc = 3396;
+	};
+	BFED7EE112B4DDCF008CE00D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Passing 'const Chromosome' as 'this' argument of 'int Chromosome::parsedValue()' discards qualifiers";
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 21;
+		rType = 1;
+	};
+	BFED7EE212B4DDCF008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 20";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 406;
+		vrLoc = 0;
+	};
+	BFED7EE512B4DEC9008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 65";
+		rLen = 0;
+		rLoc = 1534;
+		rType = 0;
+		vrLen = 881;
+		vrLoc = 1091;
+	};
+	BFED7EE612B4DEC9008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 30";
+		rLen = 0;
+		rLoc = 855;
+		rType = 0;
+		vrLen = 1179;
+		vrLoc = 160;
+	};
+	BFED7EE712B4DEC9008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 18";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 406;
+		vrLoc = 0;
+	};
+	BFED7EE812B4DEC9008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 18";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 406;
+		vrLoc = 0;
+	};
+	BFED7EEB12B4DF27008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 25";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 1173;
+		vrLoc = 160;
+	};
+	BFED7EEC12B4DF27008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 21";
+		rLen = 0;
+		rLoc = 448;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	BFED7EED12B4DF27008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 18";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 406;
+		vrLoc = 0;
+	};
+	BFED7EEE12B4DF27008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 65";
+		rLen = 0;
+		rLoc = 1537;
+		rType = 0;
+		vrLen = 944;
+		vrLoc = 866;
+	};
+	BFED7EEF12B4DF27008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 65";
+		rLen = 0;
+		rLoc = 1537;
+		rType = 0;
+		vrLen = 823;
+		vrLoc = 1057;
+	};
+	BFED7EF212B4DFBA008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 20";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 77;
+	};
+	BFED7EF312B4DFBA008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7EF412B4DFBA008CE00D /* stl_algo.h */;
+		name = "stl_algo.h: 91";
+		rLen = 0;
+		rLoc = 3512;
+		rType = 0;
+		vrLen = 371;
+		vrLoc = 3235;
+	};
+	BFED7EF412B4DFBA008CE00D /* stl_algo.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stl_algo.h;
+		path = "/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/stl_algo.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1201, 71045}}";
+			sepNavSelRange = "{4719, 0}";
+			sepNavVisRange = "{4140, 1050}";
+		};
+	};
+	BFED7EF512B4DFBA008CE00D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Instantiated from here";
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 26;
+		rType = 1;
+	};
+	BFED7EF612B4DFBA008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 18";
+		rLen = 0;
+		rLoc = 614;
+		rType = 0;
+		vrLen = 302;
+		vrLoc = 188;
+	};
+	BFED7EF712B4DFC0008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 21";
+		rLen = 0;
+		rLoc = 448;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	BFED7EF812B4DFC0008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7DB912B4C455008CE00D /* Probablilty.cpp */;
+		name = "Probablilty.cpp: 10";
+		rLen = 0;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 571;
+		vrLoc = 0;
+	};
+	BFED7EF912B4DFC0008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7DB812B4C455008CE00D /* Probablilty.h */;
+		name = "Probablilty.h: 18";
+		rLen = 0;
+		rLoc = 341;
+		rType = 0;
+		vrLen = 348;
+		vrLoc = 0;
+	};
+	BFED7EFA12B4DFC0008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 65";
+		rLen = 0;
+		rLoc = 1537;
+		rType = 0;
+		vrLen = 866;
+		vrLoc = 0;
+	};
+	BFED7EFB12B4DFC0008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 25";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 1122;
+		vrLoc = 0;
+	};
+	BFED7EFC12B4DFC0008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 18";
+		rLen = 0;
+		rLoc = 616;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 0;
+	};
+	BFED7EFD12B4DFC0008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 18";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 0;
+	};
+	BFED7EFE12B4DFC0008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 18";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 0;
+	};
+	BFED7F0712B4E02B008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 16";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 0;
+	};
+	BFED7F0812B4E02B008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 34";
+		rLen = 0;
+		rLoc = 1022;
+		rType = 0;
+		vrLen = 1213;
+		vrLoc = 185;
+	};
+	BFED7F0912B4E02B008CE00D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Cannot declare member function 'static bool Chromosome::compareChromosomes(Chromosome&, Chromosome&)' to have static linkage";
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 198;
+		rType = 1;
+	};
+	BFED7F0A12B4E02B008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 199";
+		rLen = 0;
+		rLoc = 4275;
+		rType = 0;
+		vrLen = 850;
+		vrLoc = 3528;
+	};
+	BFED7F0B12B4E074008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 18";
+		rLen = 0;
+		rLoc = 614;
+		rType = 0;
+		vrLen = 302;
+		vrLoc = 188;
+	};
+	BFED7F0C12B4E074008CE00D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Cannot declare member function 'static bool Chromosome::compareChromosomes(Chromosome&, Chromosome&)' to have static linkage";
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 198;
+		rType = 1;
+	};
+	BFED7F0D12B4E074008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 643;
+		vrLoc = 3735;
+	};
+	BFED7F1012B4E07D008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 34";
+		rLen = 0;
+		rLoc = 1022;
+		rType = 0;
+		vrLen = 1213;
+		vrLoc = 185;
+	};
+	BFED7F1112B4E07D008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 199";
+		rLen = 0;
+		rLoc = 4275;
+		rType = 0;
+		vrLen = 843;
+		vrLoc = 3528;
+	};
+	BFED7F1212B4E07D008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 199";
+		rLen = 0;
+		rLoc = 4275;
+		rType = 0;
+		vrLen = 848;
+		vrLoc = 3523;
+	};
+	BFED7F1312B4E093008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 200";
+		rLen = 0;
+		rLoc = 4273;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 3528;
+	};
+	BFED7F1612B4E0C3008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 198";
+		rLen = 18;
+		rLoc = 4292;
+		rType = 0;
+		vrLen = 846;
+		vrLoc = 3523;
+	};
+	BFED7F1B12B4E127008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 666;
+		vrLoc = 3703;
+	};
+	BFED7F1C12B4E127008CE00D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Invalid initialization of reference of type 'Chromosome&' from expression of type 'const Chromosome'";
+		fRef = BFED7EF412B4DFBA008CE00D /* stl_algo.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 124;
+		rType = 1;
+	};
+	BFED7F1D12B4E127008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7EF412B4DFBA008CE00D /* stl_algo.h */;
+		name = "stl_algo.h: 139";
+		rLen = 0;
+		rLoc = 4719;
+		rType = 0;
+		vrLen = 1050;
+		vrLoc = 4140;
+	};
+	BFED7F2412B4E144008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 666;
+		vrLoc = 3703;
+	};
+	BFED7F2512B4E144008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 3537;
+	};
+	BFED7F2612B4E174008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 34";
+		rLen = 0;
+		rLoc = 1067;
+		rType = 0;
+		vrLen = 1211;
+		vrLoc = 185;
+	};
+	BFED7F2712B4E174008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 186";
+		rLen = 0;
+		rLoc = 4064;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 3523;
+	};
+	BFED7F2812B4E174008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 19";
+		rLen = 0;
+		rLoc = 328;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 0;
+	};
+	BFED7F2912B4E174008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 18";
+		rLen = 0;
+		rLoc = 616;
+		rType = 0;
+		vrLen = 523;
+		vrLoc = 0;
+	};
+	BFED7F2A12B4E174008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 14";
+		rLen = 0;
+		rLoc = 213;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	BFED7F2F12B4E291008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 3537;
+	};
+	BFED7F3212B4E2B0008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 3537;
+	};
+	BFED7F3912B4E2C1008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 3537;
+	};
+	BFED7F3E12B4E2F9008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 3537;
+	};
+	BFED7F4112B4E311008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 3537;
+	};
+	BFED7F4212B4E315008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 186";
+		rLen = 0;
+		rLoc = 4064;
+		rType = 0;
+		vrLen = 869;
+		vrLoc = 3497;
+	};
+	BFED7F4312B4E315008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 34";
+		rLen = 0;
+		rLoc = 1067;
+		rType = 0;
+		vrLen = 1211;
+		vrLoc = 185;
+	};
+	BFED7F4412B4E315008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 16";
+		rLen = 0;
+		rLoc = 213;
+		rType = 0;
+		vrLen = 691;
+		vrLoc = 0;
+	};
+	BFED7F4512B4E315008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 13";
+		rLen = 0;
+		rLoc = 229;
+		rType = 0;
+		vrLen = 280;
+		vrLoc = 0;
+	};
+	BFED7F4612B4E315008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 19";
+		rLen = 0;
+		rLoc = 328;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 0;
+	};
+	BFED7F4712B4E315008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 19";
+		rLen = 0;
+		rLoc = 328;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 0;
+	};
+	BFED7F4E12B4E3CF008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 3539;
+	};
+	BFED7F4F12B4E3D1008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 12";
+		rLen = 0;
+		rLoc = 177;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 0;
+	};
+	BFED7F5012B4E3D1008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7DB912B4C455008CE00D /* Probablilty.cpp */;
+		name = "Probablilty.cpp: 10";
+		rLen = 0;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 571;
+		vrLoc = 0;
+	};
+	BFED7F5112B4E3D1008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7DB812B4C455008CE00D /* Probablilty.h */;
+		name = "Probablilty.h: 18";
+		rLen = 0;
+		rLoc = 341;
+		rType = 0;
+		vrLen = 348;
+		vrLoc = 0;
+	};
+	BFED7F5212B4E3D1008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 18";
+		rLen = 0;
+		rLoc = 350;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	BFED7F5312B4E3D1008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 49";
+		rLen = 0;
+		rLoc = 1156;
+		rType = 0;
+		vrLen = 1035;
+		vrLoc = 476;
+	};
+	BFED7F5412B4E3D1008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 34";
+		rLen = 0;
+		rLoc = 1067;
+		rType = 0;
+		vrLen = 1211;
+		vrLoc = 185;
+	};
+	BFED7F5512B4E3D1008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 27";
+		rLen = 0;
+		rLoc = 705;
+		rType = 0;
+		vrLen = 1213;
+		vrLoc = 185;
+	};
+	BFED7F5A12B4E4BA008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 770;
+		vrLoc = 3542;
+	};
+	BFED7F5D12B4E4D3008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 3539;
+	};
+	BFED7F6012B4E516008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 3539;
+	};
+	BFED7F6512B4E52C008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 3539;
+	};
+	BFED7F6812B4E55E008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 3539;
+	};
+	BFED7F6B12B4E591008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 3539;
+	};
+	BFED7F6E12B4E5A9008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 177";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 3539;
+	};
+	BFED7F7312B4E5EE008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 178";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 3560;
+	};
+	BFED7F7612B4E600008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 178";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 3560;
+	};
+	BFED7F7912B4E60E008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 178";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 3560;
+	};
+	BFED7F8412B4E620008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 178";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 3560;
+	};
+	BFED7F8512B4E674008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5912B4CFFF008CE00D /* Evolver.cpp */;
+		name = "Evolver.cpp: 20";
+		rLen = 0;
+		rLoc = 389;
+		rType = 0;
+		vrLen = 440;
+		vrLoc = 0;
+	};
+	BFED7F8612B4E674008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 182";
+		rLen = 0;
+		rLoc = 3967;
+		rType = 0;
+		vrLen = 850;
+		vrLoc = 3546;
+	};
+	BFED7F8712B4E674008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7E5812B4CFFF008CE00D /* Evolver.h */;
+		name = "Evolver.h: 13";
+		rLen = 0;
+		rLoc = 199;
+		rType = 0;
+		vrLen = 544;
+		vrLoc = 0;
+	};
+	BFED7F8812B4E674008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BED12B49423008CE00D /* Chromosome.h */;
+		name = "Chromosome.h: 27";
+		rLen = 0;
+		rLoc = 700;
+		rType = 0;
+		vrLen = 1251;
+		vrLoc = 140;
+	};
+	BFED7F8912B4E674008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 22";
+		rLen = 0;
+		rLoc = 423;
+		rType = 0;
+		vrLen = 826;
+		vrLoc = 0;
+	};
+	BFED7F8A12B4E674008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 39";
+		rLen = 0;
+		rLoc = 828;
+		rType = 0;
+		vrLen = 828;
+		vrLoc = 0;
+	};
+	BFED7F8D12B4E69F008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BFED7BEE12B49423008CE00D /* Chromosome.cpp */;
+		name = "Chromosome.cpp: 178";
+		rLen = 0;
+		rLoc = 3884;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 3560;
+	};
+	BFED7F8E12B4E6A6008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 39";
+		rLen = 0;
+		rLoc = 828;
+		rType = 0;
+		vrLen = 828;
+		vrLoc = 0;
+	};
+	BFED7F8F12B4E6A9008CE00D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 18";
+		rLen = 0;
+		rLoc = 310;
+		rType = 0;
+		vrLen = 828;
+		vrLoc = 0;
 	};
 }
